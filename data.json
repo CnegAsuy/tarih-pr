@@ -1,0 +1,330 @@
+[
+  {
+    "index": 0,
+    "name": "İbn-i Sina",
+    "place_of_birth": "Afyonkarahisar",
+    "birth_death": "980 – 1037",
+    "fields": ["Tıp", "Farmakoloji", "Felsefe"],
+    "works": [
+      {
+        "title": "El-Kanun Fi’t-Tıb",
+        "description": "Modern tıbbın temel kitabı; anatomi, fizyoloji ve tedavi yöntemlerini kapsar."
+      },
+      {
+        "title": "Kitabü’ş-Şifa",
+        "description": "Felsefe ve bilimin çeşitli alanlarını içeren ansiklopedik bir eser."
+      }
+    ],
+    "contributions": "Avrupa üniversitelerinde yüzyıllarca ders kitabı olarak okutulmuştur."
+  },
+  {
+    "index": 1,
+    "name": "El-Cezeri",
+    "place_of_birth": "Şırnak",
+    "birth_death": "1136 – 1206",
+    "fields": ["Mekanik", "Mühendislik", "Robotik"],
+    "works": [
+      {
+        "title": "Kitab-ül Hiyel",
+        "description": "Otomasyon ve mekanik sistemler üzerine yazılmış bir başyapıt."
+      }
+    ],
+    "contributions": "Robotik mühendisliğin öncüsü kabul edilir; otomatik makineler geliştirmiştir."
+  },
+  {
+    "index": 2,
+    "name": "Sabuncuoğlu Şerafettin",
+    "place_of_birth": "Amasya",
+    "birth_death": "1385 – 1468",
+    "fields": ["Tıp", "Cerrahi", "Farmakoloji"],
+    "works": [
+      {
+        "title": "Cerrahiyyetü’l-Haniyye",
+        "description": "Cerrahi müdahaleleri resimli anlatan ilk Osmanlı tıp kitabı."
+      }
+    ],
+    "contributions": "Ameliyat tekniklerini geliştirmiş ve zehirlenmelere karşı ilaçlar geliştirmiştir."
+  },
+  {
+    "index": 3,
+    "name": "Akşemsettin",
+    "place_of_birth": "Bolu",
+    "birth_death": "1389 – 1459",
+    "fields": ["Mikrobiyoloji", "Tıp", "Tasavvuf"],
+    "works": [
+      {
+        "title": "Maddetü’l-Hayat",
+        "description": "Mikroorganizmalar ve hastalıkların ilişkisi üzerine bir çalışma."
+      },
+      {
+        "title": "Risaletü’n-Nuriyye",
+        "description": "Manevi rehberlik üzerine yazılmış bir eser."
+      }
+    ],
+    "contributions": "Mikropların hastalıklara neden olduğunu ileri sürerek mikrobiyolojinin temellerine katkı sağlamıştır."
+  },
+  {
+    "index": 4,
+    "name": "Hezarfen Ahmed Çelebi",
+    "place_of_birth": "İstanbul",
+    "birth_death": "1609 – 1640",
+    "fields": ["Havacılık"],
+    "contributions": "Galata Kulesi'nden Üsküdar’a kendi tasarladığı kanatlarla uçmuştur; insanlı uçuş tarihindeki öncülerdendir."
+  },
+  {
+    "index": 5,
+    "name": "Farabi",
+    "place_of_birth": "Kahramanmaraş",
+    "birth_death": "872 – 950",
+    "fields": ["Felsefe", "Mantık", "Müzik"],
+    "works": [
+      {
+        "title": "El-Medinetü’l-Fazıla",
+        "description": "Ütopya fikrini ele alan bir eser."
+      }
+    ],
+    "contributions": "\"Muallim-i Sani\" unvanıyla bilinir; felsefe ve mantık alanında çığır açmıştır."
+  },
+  {
+    "index": 6,
+    "name": "Piri Reis",
+    "place_of_birth": "Çanakkale",
+    "birth_death": "1470 – 1554",
+    "fields": ["Haritacılık", "Denizcilik"],
+    "works": [
+      {
+        "title": "Kitab-ı Bahriye",
+        "description": "Denizcilik ve haritacılık üzerine önemli bir kaynak."
+      }
+    ],
+    "contributions": "Dünya haritasını çizmiş ve Amerika kıtasını erken dönemde haritalandırmıştır."
+  },
+  {
+    "index": 7,
+    "name": "Ali Kuşçu",
+    "place_of_birth": "Konya",
+    "birth_death": "1403 – 1474",
+    "fields": ["Astronomi", "Matematik"],
+    "works": [
+      {
+        "title": "Risale fi’l-Hisab",
+        "description": "Matematik üzerine bir çalışma."
+      }
+    ],
+    "contributions": "Astronomi ve matematik alanında Osmanlı’da çığır açmıştır."
+  },
+  {
+    "index": 8,
+    "name": "Erzurumlu İbrahim Hakkı",
+    "place_of_birth": "Erzurum",
+    "birth_death": "1703 – 1780",
+    "fields": ["Astronomi", "Fizik", "Tasavvuf"],
+    "works": [
+      {
+        "title": "Marifetname",
+        "description": "Astronomiyi tasavvufla birleştiren bir eser."
+      }
+    ],
+    "contributions": "Doğa bilimleri ile dini bilgiyi sentezlemiştir."
+  },
+  {
+    "index": 9,
+    "name": "Harezmi",
+    "place_of_birth": "Kars",
+    "birth_death": "780 – 850",
+    "fields": ["Matematik", "Astronomi"],
+    "works": [
+      {
+        "title": "Hisabü’l-Cebr ve’l-Mukabele",
+        "description": "Cebir biliminin temel eseri."
+      }
+    ],
+    "contributions": "Matematikte algoritma ve cebir kavramlarını geliştirmiştir."
+  },
+  {
+    "index": 10,
+    "name": "Hacı Bektaş-ı Veli",
+    "place_of_birth": "Nevşehir",
+    "birth_death": "1209 – 1271",
+    "fields": ["Tasavvuf", "Felsefe"],
+    "works": [
+      {
+        "title": "Makalat",
+        "description": "Tasavvufun temel prensiplerini içeren bir eser."
+      }
+    ],
+    "contributions": "Anadolu'da hoşgörü ve kardeşlik felsefesini yaymıştır."
+  },
+  {
+    "index": 11,
+    "name": "Ahmet Cevdet Paşa",
+    "place_of_birth": "Kırklareli",
+    "birth_death": "1822 – 1895",
+    "fields": ["Hukuk", "Tarih"],
+    "works": [
+      {
+        "title": "Mecelle",
+        "description": "Osmanlı'nın ilk medeni kanun kitabı."
+      }
+    ],
+    "contributions": "Osmanlı hukuku ve tarihine önemli katkılarda bulunmuştur."
+  },
+  {
+    "index": 12,
+    "name": "Evliya Çelebi",
+    "place_of_birth": "Kütahya",
+    "birth_death": "1611 – 1682",
+    "fields": ["Coğrafya", "Tarih"],
+    "works": [
+      {
+        "title": "Seyahatname",
+        "description": "Osmanlı coğrafyasını detaylı bir şekilde anlatan on ciltlik eser."
+      }
+    ],
+    "contributions": "Osmanlı İmparatorluğu’nun coğrafyasını, kültürünü ve sosyal yapısını belgeleyen önemli bir gezgindir."
+  },
+  {
+    "index": 13,
+    "name": "Şeyh Edebali",
+    "place_of_birth": "Bilecik",
+    "birth_death": "1206 – 1326",
+    "fields": ["Tasavvuf"],
+    "contributions": "Osmanlı Devleti’nin manevi kurucularındandır. Osman Gazi’ye devlet yönetiminde rehberlik etmiştir."
+  },
+  {
+    "index": 14,
+    "name": "El-Biruni",
+    "place_of_birth": "Kırşehir",
+    "birth_death": "973 – 1050",
+    "fields": ["Astronomi", "Matematik", "Coğrafya"],
+    "works": [
+      {
+        "title": "Kitabü’l-Hind",
+        "description": "Hint kültürü ve bilimleri üzerine bir çalışma."
+      }
+    ],
+    "contributions": "Dünya'nın çapını oldukça doğru bir şekilde hesaplamış ve güneş sistemini incelemiştir."
+  },
+  {
+    "index": 15,
+    "name": "Mimar Sinan",
+    "place_of_birth": "Kayseri",
+    "birth_death": "1489 – 1588",
+    "fields": ["Mimarlık", "Matematik"],
+    "works": [
+      {
+        "title": "Süleymaniye Camii",
+        "description": "Dünya çapında ünlü bir cami."
+      },
+      {
+        "title": "Selimiye Camii",
+        "description": "Dünya çapında ünlü bir cami."
+      }
+    ],
+    "contributions": "Osmanlı mimarisinde devrim yapmış, yapı fiziği ve akustiği alanında çığır açmıştır."
+  },
+  {
+    "index": 16,
+    "name": "Hacı Bayram Veli",
+    "place_of_birth": "Ankara",
+    "birth_death": "1352 – 1430",
+    "fields": ["Tasavvuf"],
+    "contributions": "Bayramilik tarikatının kurucusu; tasavvufun Anadolu’da yayılmasını sağlamıştır."
+  },
+  {
+    "index": 17,
+    "name": "Ahmet Fergani",
+    "place_of_birth": "Aydın",
+    "birth_death": "800 – 870",
+    "fields": ["Astronomi", "Coğrafya"],
+    "works": [
+      {
+        "title": "Kitab Fi Hareketi’s-Semaviye",
+        "description": "Astronomik gözlemler üzerine önemli bir çalışma."
+      }
+    ],
+    "contributions": "Nil Nehri'nin uzunluğunu ölçmüş ve gök cisimlerinin hareketlerini incelemiştir."
+  },
+  {
+    "index": 18,
+    "name": "Cafer Sadık",
+    "place_of_birth": "Diyarbakır",
+    "birth_death": "702 – 765",
+    "fields": ["Kimya", "Astronomi"],
+    "works": [
+      {
+        "title": "Kimya ve simya üzerine yazılar",
+        "description": "Kimya ve simya üzerine yazılar."
+      }
+    ],
+    "contributions": "İslam dünyasında simya biliminin gelişmesine katkıda bulunmuştur."
+  },
+  {
+    "index": 19,
+    "name": "İshak Efendi",
+    "place_of_birth": "Erzincan",
+    "birth_death": "1780 – 1836",
+    "fields": ["Matematik", "Astronomi", "Fizik"],
+    "works": [
+      {
+        "title": "Mecmua-i Ulum-i Riyaziye",
+        "description": "Matematik, fizik ve astronomi konularını bir araya getiren önemli bir eser."
+      }
+    ],
+    "contributions": "Osmanlı’nın modern bilimlere geçiş döneminde önemli bir rol oynadı. Batı bilimlerini Osmanlı'ya tanıtarak modern tekniklerin anlaşılmasını sağladı."
+  },
+  {
+    "index": 20,
+    "name": "Ebu'l-İz el-Vani",
+    "place_of_birth": "Van",
+    "birth_death": "16. yüzyıl",
+    "fields": ["Astronomi", "Fizik"],
+    "contributions": "Osmanlı’da astronomi ve mühendislik alanında çalışmalarıyla tanındı. Medreselerde fen bilimlerinin öğretilmesine öncülük etti."
+  },
+  {
+    "index": 21,
+    "name": "Battani",
+    "place_of_birth": "Sivas",
+    "birth_death": "858 – 929",
+    "fields": ["Astronomi", "Matematik"],
+    "works": [
+      {
+        "title": "Kitab el-Zic es-Sabi",
+        "description": "Astronomik Tablo Kitabı."
+      }
+    ],
+    "contributions": "Trigonometrik kavramların temellerini atan bilim insanlarından biridir. Sinüs, kosinüs ve tanjantın kullanımını sistematik hale getirmiştir."
+  },
+  {
+    "index": 22,
+    "name": "İbni Kemal",
+    "place_of_birth": "Malatya",
+    "birth_death": "1468 – 1536",
+    "fields": ["Tarih", "Felsefe", "Hukuk"],
+    "works": [
+      {
+        "title": "Tevarih-i Al-i Osman",
+        "description": "Osmanlı Tarihi"
+      },
+      {
+        "title": "Risale-i Akliyyeler",
+        "description": "Felsefi ve akli çalışmalar."
+      }
+    ],
+    "contributions": "Osmanlı tarih yazıcılığının önemli isimlerinden biri; medrese eğitiminin geliştirilmesine büyük katkı sağlamıştır."
+  },
+  {
+    "index": 23,
+    "name": "Yusuf Sinaneddin",
+    "place_of_birth": "Antalya",
+    "birth_death": "13. yüzyıl – 1326",
+    "fields": ["Tıp", "Farmakoloji"],
+    "works": [
+      {
+        "title": "Müfredat Fi’t-Tıb",
+        "description": "Tıpta Maddeler."
+      }
+    ],
+    "contributions": "Anadolu Selçuklu Dönemi’nin önemli hekimlerinden biri; mikrop kaynaklı hastalıklar üzerine çalışmalar yapmıştır."
+  }
+]
