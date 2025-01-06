@@ -4,7 +4,7 @@ import "./index.css";
 import "./Main.css";
 async function fetchData() {
   try {
-    const response = await fetch("http://192.168.1.249:5173/data.json");
+    const response = await fetch("/data.json");
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }

@@ -4,7 +4,7 @@ import "./App.css";
 import "./index.css";
 async function fetchData() {
   try {
-    const response = await fetch("http://192.168.1.249:5173/data.json");
+    const response = await fetch("/data.json");
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }
@@ -71,9 +71,14 @@ function App() {
               <b>Yaşadığı Tarihler:</b> {data[x].birth_death}
             </li>
             <li>
-              <b>Çalışma Yaptığı Alanlar:</b> {data[x].fields}
+              <b>Çalışma Yaptığı Alanlar:</b>{" "}
+              {data[x].fields.map((f) => (
+                <>{f + " "}</>
+              ))}
             </li>
           </ul>
+          <br />
+          <p>{data[x].contributions}</p>
         </div>
         {data[x].works != null &&
           data[x].works.map((work) => (

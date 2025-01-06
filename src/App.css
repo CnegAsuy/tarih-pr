@@ -20,3 +20,8 @@
         justify-content: flex-start;
     }
 }
+
+p {
+    text-align: left;
+    display: inline-flex;
+}
