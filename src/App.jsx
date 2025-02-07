@@ -16,8 +16,9 @@ async function fetchData() {
 }
 
 function zero() {
- console.log(searchParams.get("id"));
-    return 0;
+  const [searchParams] = useSearchParams();
+  console.log(searchParams.get("id"));
+  return 0;
 
 }
 
