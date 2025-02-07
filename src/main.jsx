@@ -6,8 +6,8 @@ import Menu from "./Menu.jsx";
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/menu" element={<Menu />} />
+      <Route path="/tarih-pr" element={<App />} />
+      <Route path="tarih-pr/menu/" element={<Menu />} />
     </Routes>
   </BrowserRouter>,
 );

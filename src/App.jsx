@@ -4,7 +4,7 @@ import "./App.css";
 import "./index.css";
 async function fetchData() {
   try {
-    const response = await fetch("/data.json");
+    const response = await fetch("/tarih-pr/data.json");
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }
@@ -50,7 +50,7 @@ function App() {
 
   return (
     <>
-      <a href="/menu">
+      <a href="/tarih-pr/menu">
         <button>Ana Menüye dön ⏎</button>
       </a>
       <div className="scientist-container">
