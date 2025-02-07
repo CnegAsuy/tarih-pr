@@ -15,15 +15,18 @@ async function fetchData() {
   }
 }
 
+function zero() {
+ console.log(searchParams.get("id"));
+    return 0;
+
+}
+
 function App() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [searchParams] = useSearchParams();
-  const x = Number(searchParams.get("id")) || () => {
-    console.log(searchParams.get("id"))
-    0
-  };
+  const x = Number(searchParams.get("id")) || zero();
 
   useEffect(() => {
     async function getData() {
