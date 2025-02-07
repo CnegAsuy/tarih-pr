@@ -50,7 +50,7 @@ function App() {
 
   return (
     <>
-      <a href="/tarih-pr/menu">
+      <a href="/tarih-pr/#/menu">
         <button>Ana Menüye dön ⏎</button>
       </a>
       <div className="scientist-container">
