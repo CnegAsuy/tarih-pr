@@ -58,8 +58,8 @@ function App() {
 
         <div className="scientist-info">
           <img
-            src="https://i.ytimg.com/vi/rIuuLuwufRs/hqdefault.jpg"
-            alt="Mevlana Celaleddin Rumi"
+            src={data[x].url}
+            alt="Fotograf bulunmamaktadir."
             className="photo"
           />
           <h2 className="scientist-name">{data[x].city}</h2>

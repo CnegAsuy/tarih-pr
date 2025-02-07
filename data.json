@@ -2,6 +2,7 @@
   {
     "index": 0,
     "name": "İbn-i Sina",
+    "url": "https://www.neoldu.com/d/other/02-619.jpg",
     "place_of_birth": "Afyonkarahisar",
     "birth_death": "980 – 1037",
     "fields": ["Tıp", "Farmakoloji", "Felsefe"],
@@ -20,6 +21,7 @@
   {
     "index": 1,
     "name": "El-Cezeri",
+    "url": "https://img3.aksam.com.tr/imgsdisk/2019/01/04/040120192129450018206_2.jpg",
     "place_of_birth": "Şırnak",
     "birth_death": "1136 – 1206",
     "fields": ["Mekanik", "Mühendislik", "Robotik"],
@@ -34,6 +36,7 @@
   {
     "index": 2,
     "name": "Sabuncuoğlu Şerafettin",
+    "url": "https://4.bp.blogspot.com/-FowPIou5fS8/UexrV2ZK84I/AAAAAAAADck/NMDvGCg7vPs/s1600/Scan001+(1)-001.JPG",
     "place_of_birth": "Amasya",
     "birth_death": "1385 – 1468",
     "fields": ["Tıp", "Cerrahi", "Farmakoloji"],
@@ -48,6 +51,7 @@
   {
     "index": 3,
     "name": "Akşemsettin",
+    "url": "https://www.timeturk.com/resim/detay/80/800802.jpg",
     "place_of_birth": "Bolu",
     "birth_death": "1389 – 1459",
     "fields": ["Mikrobiyoloji", "Tıp", "Tasavvuf"],
@@ -66,6 +70,7 @@
   {
     "index": 4,
     "name": "Hezarfen Ahmed Çelebi",
+    "url": "https://3.bp.blogspot.com/-ENthJx0khFE/XHxT7w1NRGI/AAAAAAAACFU/SOQuHXA06s429qJcGPvojZ2ci0SrOc28QCK4BGAYYCw/s400/uuuuu.PNG",
     "place_of_birth": "İstanbul",
     "birth_death": "1609 – 1640",
     "fields": ["Havacılık"],
@@ -74,6 +79,7 @@
   {
     "index": 5,
     "name": "Farabi",
+    "url": "https://www.prints-online.com/p/164/al-farabi-32227442.jpg.webp", 
     "place_of_birth": "Kahramanmaraş",
     "birth_death": "872 – 950",
     "fields": ["Felsefe", "Mantık", "Müzik"],
@@ -88,6 +94,7 @@
   {
     "index": 6,
     "name": "Piri Reis",
+    "url": "https://www.suustunde.com/content/files/2019/11/M_451302240_NWS-9UQPb5JbjpNYdcjdnfMc.png",
     "place_of_birth": "Çanakkale",
     "birth_death": "1470 – 1554",
     "fields": ["Haritacılık", "Denizcilik"],
@@ -102,6 +109,7 @@
   {
     "index": 7,
     "name": "Ali Kuşçu",
+    "url": "https://img.piri.net/mnresize/900/-/resim/imagecrop/2018/12/15/05/36/resized_f10a8-5956e39dalikuscu.jpg",
     "place_of_birth": "Konya",
     "birth_death": "1403 – 1474",
     "fields": ["Astronomi", "Matematik"],
@@ -116,6 +124,7 @@
   {
     "index": 8,
     "name": "Erzurumlu İbrahim Hakkı",
+    "url": "https://3.bp.blogspot.com/-Qvpu3Z6ItYA/UARwDrsA98I/AAAAAAAAAXQ/oLKjDeAu0k4/s200/ibrahim+hakk%C4%B1+erzurumi+2.jpg",
     "place_of_birth": "Erzurum",
     "birth_death": "1703 – 1780",
     "fields": ["Astronomi", "Fizik", "Tasavvuf"],
@@ -130,6 +139,7 @@
   {
     "index": 9,
     "name": "Harezmi",
+    "url": "https://1.bp.blogspot.com/-IzemFRTBcQU/WLXAGzLVOWI/AAAAAAAAADY/EKXp8y27fP0SD8mcnU9TT-hvwh3G14p6wCLcB/s320/FB_IMG_1488309822955.jpg",
     "place_of_birth": "Kars",
     "birth_death": "780 – 850",
     "fields": ["Matematik", "Astronomi"],
@@ -144,6 +154,7 @@
   {
     "index": 10,
     "name": "Hacı Bektaş-ı Veli",
+    "url": "https://i0.wp.com/rayhaber.com/wp-content/uploads/2020/08/haci-bektas-i-veli-kimdir.jpg?fit=1424%2C800&ssl=1",
     "place_of_birth": "Nevşehir",
     "birth_death": "1209 – 1271",
     "fields": ["Tasavvuf", "Felsefe"],
@@ -158,6 +169,7 @@
   {
     "index": 11,
     "name": "Ahmet Cevdet Paşa",
+    "url": "http://azizyardimli.com/ottoman/0_grafik_toplu__2/ottoman%20Ahmet_cevdet%20pa%C5%9Fa.jpg",
     "place_of_birth": "Kırklareli",
     "birth_death": "1822 – 1895",
     "fields": ["Hukuk", "Tarih"],
@@ -172,6 +184,7 @@
   {
     "index": 12,
     "name": "Evliya Çelebi",
+    "url": "http://img.reitix.com/foto/10201895-cfe8-4be5-bd34-ac9e1c78e812.jpg",
     "place_of_birth": "Kütahya",
     "birth_death": "1611 – 1682",
     "fields": ["Coğrafya", "Tarih"],
@@ -186,6 +199,7 @@
   {
     "index": 13,
     "name": "Şeyh Edebali",
+    "url": "https://img-s1.onedio.com/id-63b6a0b54fa4342212f7a0ba/rev-0/w-900/h-506/f-jpg/s-6bf42e89534cfdb7261c9f25497a7c15f401351d.jpg",
     "place_of_birth": "Bilecik",
     "birth_death": "1206 – 1326",
     "fields": ["Tasavvuf"],
@@ -194,6 +208,7 @@
   {
     "index": 14,
     "name": "El-Biruni",
+    "url": "https://www.birey.net/wp-content/uploads/2020/12/El-Biruni-Kimdir.jpg",
     "place_of_birth": "Kırşehir",
     "birth_death": "973 – 1050",
     "fields": ["Astronomi", "Matematik", "Coğrafya"],
@@ -208,6 +223,7 @@
   {
     "index": 15,
     "name": "Mimar Sinan",
+    "url": "https://www.webtekno.com/images/editor/default/0003/54/951d54bad05a005c0311175b43fd30f7a47b05d7.jpeg",
     "place_of_birth": "Kayseri",
     "birth_death": "1489 – 1588",
     "fields": ["Mimarlık", "Matematik"],
@@ -226,6 +242,7 @@
   {
     "index": 16,
     "name": "Hacı Bayram Veli",
+    "url": "https://i2.milimaj.com/i/milliyet/75/869x477/6206a82386b247192c03ba1d.jpg",
     "place_of_birth": "Ankara",
     "birth_death": "1352 – 1430",
     "fields": ["Tasavvuf"],
@@ -234,6 +251,7 @@
   {
     "index": 17,
     "name": "Ahmet Fergani",
+    "url": "https://www.lincheap.com/wp-content/uploads/2022/06/1634955875.webp",
     "place_of_birth": "Aydın",
     "birth_death": "800 – 870",
     "fields": ["Astronomi", "Coğrafya"],
@@ -248,6 +266,7 @@
   {
     "index": 18,
     "name": "Cafer Sadık",
+    "url": "http://www.alevice.net/wp-content/uploads/2015/01/imam-cafer-i-sadik.jpg",
     "place_of_birth": "Diyarbakır",
     "birth_death": "702 – 765",
     "fields": ["Kimya", "Astronomi"],
@@ -262,6 +281,7 @@
   {
     "index": 19,
     "name": "İshak Efendi",
+    "url": "https://admin.biyografya.com/_docs/photos/4ebecd9cfb128f74e65175bb3ae7b1cb.jpg",
     "place_of_birth": "Erzincan",
     "birth_death": "1780 – 1836",
     "fields": ["Matematik", "Astronomi", "Fizik"],
@@ -284,6 +304,7 @@
   {
     "index": 21,
     "name": "Battani",
+    "url": "https://science4fun.info/wp-content/uploads/2020/02/Al-Battani.jpg",
     "place_of_birth": "Sivas",
     "birth_death": "858 – 929",
     "fields": ["Astronomi", "Matematik"],
@@ -298,6 +319,7 @@
   {
     "index": 22,
     "name": "İbni Kemal",
+    "url": "https://www.devletialiyyei.com/wp-content/uploads/2021/09/kemalpasazade-1.jpg",
     "place_of_birth": "Malatya",
     "birth_death": "1468 – 1536",
     "fields": ["Tarih", "Felsefe", "Hukuk"],
@@ -316,6 +338,7 @@
   {
     "index": 23,
     "name": "Yusuf Sinaneddin",
+    "url": "https://biyo-prod.s3.eu-central-1.amazonaws.com/biography/photo/profile/b69f03fe5d03556ada856e2adc23e3cd.webp",
     "place_of_birth": "Antalya",
     "birth_death": "13. yüzyıl – 1326",
     "fields": ["Tıp", "Farmakoloji"],
