@@ -1,13 +1,14 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { createRoot } from "react-dom/client";
-import App from "./App.jsx";
-import Menu from "./Menu.jsx";
+import App from "./App";
+import Menu from "./Menu";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <Router>
     <Routes>
-      <Route path="/tarih-pr" element={<App />} />
-      <Route path="tarih-pr/menu/" element={<Menu />} />
+      <Route path="/" element={<App />} />
+      <Route path="/menu" element={<Menu />} />
     </Routes>
-  </BrowserRouter>,
+  </Router>
 );
+
