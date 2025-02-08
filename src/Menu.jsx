@@ -35,6 +35,7 @@ function Main() {
   }, []);
 
   if (loading) {
+    console.log*(import.env.BASE_URL);
     return <div>Loading...</div>;
   }
 
