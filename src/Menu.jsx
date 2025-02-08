@@ -35,7 +35,7 @@ function Main() {
   }, []);
 
   if (loading) {
-    console.log*(import.env.BASE_URL);
+    console.log*(import.meta.env.BASE_URL);
     return <div>Loading...</div>;
   }
 
