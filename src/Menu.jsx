@@ -47,7 +47,7 @@ function Main() {
       <div className="two-row-grid">
         {data.map((x) => (
           <>
-            <a href={"tarih-pr/#/?id=" + x.index}>
+            <a href={`${import.meta.env.BASE_URL}#/?id=${x.index}`}>
               <button>{x.name}</button>
             </a>
           </>
