@@ -1,24 +1,18 @@
 [
   {
     "index": 0,
-    "name": "İbn-i Sina",
-    "url": "https://www.neoldu.com/d/other/02-619.jpg",
+    "name": "Prof. Dr. Attila Aşkar",
+    "url": "https://mysite.ku.edu.tr/aaskar/wp-content/uploads/sites/324/2023/04/prof-dr-atilla-askar.jpg",
     "place_of_birth": "Afyonkarahisar",
-    "birth_death": "980 – 1037",
-    "fields": ["Tıp", "Farmakoloji", "Felsefe"],
+    "birth_death": "1943 – ",
+    "fields": ["Uygulamalı Matematik", "İnşaat Mühendisliği"],
     "works": [
       {
-        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:1015520/wh:true/wi:800",
-        "title": "El-Kanun Fi’t-Tıb",
-        "description": "Modern tıbbın temel kitabı; anatomi, fizyoloji ve tedavi yöntemlerini kapsar."
-      },
-      {
-        "pic":"https://www.nobelkitap.com/images/urunler/default_web/345167.webp",
-        "title": "Kitabü’ş-Şifa",
-        "description": "Felsefe ve bilimin çeşitli alanlarını içeren ansiklopedik bir eser."
+        "pic": "",
+        "title": "Katkıları",
+        "description": "Princeton Üniversitesi'nde doktora yapmıştır. /nBoğaziçi Üniversitesi'nde Matematik Bölüm Başkanlığı ve Koç Üniversitesi'nde rektörlük görevlerinde bulunmuştur. /nDalga mekaniği, kuantum saçılma teorisi ve sayısal analiz alanlarında önemli araştırmalar yapmıştır."
       }
-    ],
-    "contributions": "Avrupa üniversitelerinde yüzyıllarca ders kitabı olarak okutulmuştur."
+    ]
   },
   {
     "index": 1,
@@ -54,24 +48,18 @@
   },
   {
     "index": 3,
-    "name": "Akşemsettin",
-    "url": "https://www.timeturk.com/resim/detay/80/800802.jpg",
+    "name": "Doç. Dr. İsmail Eker",
+    "url": "https://cdnuploads.aa.com.tr/uploads/userFiles/caec1b32-8257-4f58-87b0-6657c62b92b3/New%20folder%2FNew%20folder%20(11)%2FAA-33018074.jpg",
     "place_of_birth": "Bolu",
-    "birth_death": "1389 – 1459",
-    "fields": ["Mikrobiyoloji", "Tıp", "Tasavvuf"],
+    "birth_death": "1979-",
+    "fields": ["Botanik"],
     "works": [
       {
-        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:11877773/wh:true/miw:200/mih:200",
-        "title": "Maddetü’l-Hayat",
-        "description": "Mikroorganizmalar ve hastalıkların ilişkisi üzerine bir çalışma."
-      },
-      {
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYghtXRYGbUz0vAj4Fje23I0JZniWZZII9Ig&s",
-        "title": "Risaletü’n-Nuriyye",
-        "description": "Manevi rehberlik üzerine yazılmış bir eser."
+        "pic":"https://cdnuploads.aa.com.tr/uploads/userFiles/caec1b32-8257-4f58-87b0-6657c62b92b3/New%20folder%2FNew%20folder%20(11)%2FAA-33018067.jpg",
+        "title": "Katkıları:",
+        "description": "Bolu Abant İzzet Baysal Üniversitesi Biyoloji Bölümü Botanik Ana Bilim Dalı Öğretim Üyesi olarak görev yapmaktadır. /nTürkiye florasına önemli katkılar sağlamış, birçok yeni bitki türü keşfetmiştir. /n13 yıl önce kaybettiği babasının adını verdiği yeni bir bitki türü (Allium mehmetyaschari Eker) keşfetmiş ve bu tür dünya literatürüne geçmiştir."
       }
-    ],
-    "contributions": "Mikropların hastalıklara neden olduğunu ileri sürerek mikrobiyolojinin temellerine katkı sağlamıştır."
+    ]
   },
   {
     "index": 4,
@@ -84,19 +72,18 @@
   },
   {
     "index": 5,
-    "name": "Farabi",
+    "name": "Prof. Dr. Mehmet Sağlam",
     "url": "https://www.prints-online.com/p/164/al-farabi-32227442.jpg.webp", 
     "place_of_birth": "Kahramanmaraş",
-    "birth_death": "872 – 950",
-    "fields": ["Felsefe", "Mantık", "Müzik"],
+    "birth_death": "1938 – ",
+    "fields": ["Eğitim Bilimleri", "Siyaset","Fizik"],
     "works": [
       {
-        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:11380102/wh:true/wi:800",
-        "title": "El-Medinetü’l-Fazıla",
-        "description": "Ütopya fikrini ele alan bir eser."
+        "pic":"https://i1.sndcdn.com/artworks-000119899168-pctn17-t500x500.jpg",
+        "title": "Katkıları:",
+        "description": "Türkiye’de eğitim sisteminin gelişimine katkı sağladı. /nUzun yıllar akademisyenlik ve siyasi görevlerde (Eğitim Bakanlığı) bulundu. /nFizik eğitimi alanında akademik çalışmalar yaptı."
       }
-    ],
-    "contributions": "\"Muallim-i Sani\" unvanıyla bilinir; felsefe ve mantık alanında çığır açmıştır."
+    ]
   },
   {
     "index": 6,
@@ -116,20 +103,20 @@
   },
   {
     "index": 7,
-    "name": "Ali Kuşçu",
-    "url": "https://img.piri.net/mnresize/900/-/resim/imagecrop/2018/12/15/05/36/resized_f10a8-5956e39dalikuscu.jpg",
-    "place_of_birth": "Konya",
-    "birth_death": "1403 – 1474",
-    "fields": ["Astronomi", "Matematik"],
-    "works": [
-      {
-        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:11573990/wh:true/wi:800",
-        "title": "Risale fi’l-Hisab",
-        "description": "Matematik üzerine bir çalışma."
-      }
-    ],
-    "contributions": "Astronomi ve matematik alanında Osmanlı’da çığır açmıştır."
-  },
+  "name": "Ahmet Gül",
+  "url": "https://hlkiurt3.rocketcdn.com/newsgallery/fea9bb953bce4702a3074a0b3f594a09.jpeg", 
+  "place_of_birth": "Konya",
+  "birth_death": "1953 - ",
+  "fields": ["Kimya", "Kimya Mühendisliği"],
+  "works": [
+    {
+      "pic": "  ",
+      "title": "Biyolojik ve Kimyasal Çözücüler",
+      "description": "Kimya ve biyolojik çözücüler üzerine bir çalışma."
+    }
+  ],
+  "contributions": "Ahmet Gül, özellikle kimya alanında yaptığı önemli çalışmalarla tanınmaktadır. Çözücüler üzerine yaptığı araştırmalar, biyolojik kimya ve endüstriyel kimya alanlarında önemli katkılar sağlamıştır."
+},
   {
     "index": 8,
     "name": "Erzurumlu İbrahim Hakkı",
@@ -148,35 +135,36 @@
   },
   {
     "index": 9,
-    "name": "Harezmi",
-    "url": "https://1.bp.blogspot.com/-IzemFRTBcQU/WLXAGzLVOWI/AAAAAAAAADY/EKXp8y27fP0SD8mcnU9TT-hvwh3G14p6wCLcB/s320/FB_IMG_1488309822955.jpg",
-    "place_of_birth": "Kars",
-    "birth_death": "780 – 850",
-    "fields": ["Matematik", "Astronomi"],
-    "works": [
-      {
-        "pic":"https://www.kitapbahcesi.com/u/kitapbahcesi/img/c/c/e/cebir-ve-denklem-hesabi-uzerine-ozet-kitap-el-kitabu-l-muhtasar-fi-hisabi-l-cebr-ve-l-mukabelec1fdde30435e4c9217ececd6967b6865.png",
-        "title": "Hisabü’l-Cebr ve’l-Mukabele",
-        "description": "Cebir biliminin temel eseri."
-      }
-    ],
-    "contributions": "Matematikte algoritma ve cebir kavramlarını geliştirmiştir."
-  },
+    "name": "Taner Yıldırım",
+  "url": "data:image/jpeg;base64,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",
+  "place_of_birth": "Kars, Türkiye",
+  "birth_death": "1968 – ",
+  "fields": ["Fizik", "Nanoteknoloji", "Enerji Depolama"],
+  "works": [
+    {
+      "pic": "https://www.mdpi.com/molecules/molecules-29-01966/article_deploy/html/images/molecules-29-01966-g001-550.jpg",
+      "title": "Titanium-decorated carbon nanotubes as a potential high-capacity hydrogen storage medium",
+      "description": "Bu çalışma, titanyumla süslenmiş karbon nanotüplerin yüksek kapasiteli hidrojen depolama potansiyelini incelemektedir."
+    }
+  ],
+  "contributions": "Taner Yıldırım, metal-organik çerçeveler (MOF) ve hidrojen depolama konularında yaptığı araştırmalarla tanınmaktadır. Ayrıca, nanoteknoloji ve enerji depolama alanlarında önemli katkılarda bulunmuştur.",
+  "biography": "1968 yılında Kars'ın Arpaçay ilçesinde doğan Taner Yıldırım, maddi zorluklar nedeniyle dersaneye gidememiş, ancak Ankara Fen Lisesi ve Orta Doğu Teknik Üniversitesi'ni (ODTÜ) başarıyla tamamlamıştır. 1994 yılında Pennsylvania Üniversitesi'nde fizik alanında doktorasını tamamlayan Yıldırım, ABD'de kariyerine devam etmektedir. 2009 yılında TÜBİTAK Bilim Ödülü'nü kazanarak uluslararası bilim camiasında tanınmıştır."
+},
   {
     "index": 10,
-    "name": "Hacı Bektaş-ı Veli",
-    "url": "https://i0.wp.com/rayhaber.com/wp-content/uploads/2020/08/haci-bektas-i-veli-kimdir.jpg?fit=1424%2C800&ssl=1",
+    "name": "Prof. Dr. Abdullah Büyükçelik",
+    "url": "https://i.kayserianadoluhaber.com.tr/c/90/1682x948/s/dosya/haber/kayseri-haber-223201714d3l.jpg",
     "place_of_birth": "Nevşehir",
-    "birth_death": "1209 – 1271",
-    "fields": ["Tasavvuf", "Felsefe"],
+    "birth_death": "1972 –",
+    "fields": ["Tıbbi Onkoloji", "İç Hastalıkları", "Felsefe", "Sosyal Bilimler"],
     "works": [
       {
-        "pic":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhIWFRUVFxgVFRYXGBUVFRYXGBgXFhUYFxYYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGi0dHx8tKy0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rLS0tLS0rLS0tLS0tLS03LTcrN//AABEIARoAsgMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAQIDBAYAB//EAEYQAAEDAgMEBwQGCAUDBQAAAAEAAhEDIQQSMQUiQVEGEzJhcYGxcpGhwQcUIzNS0RZCU2JjouHwFTVzkrI0grMkJUPD8f/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAAECBQb/xAAmEQACAQMDBAMBAQEAAAAAAAAAAQIDETEEEiETIjJBFFFhBSOx/9oADAMBAAIRAxEAPwA3U7LfA+pVekN4+A9SrFTsN8/UoJULc9QEmDlDr34xk53Xjqcd3B6oLFcEEo1C4OzbruJkwQAMvvISde4gm7YnK1ptJH9/2UToP7IpIOrg5A213ANNzYZmuNrd6R1QtO7fNDi6btJ1Atpce5ToEckHpSSgAcc0ZnxljNPGZiOXf/8AieKhdd0At3gZO+eTraQPip0P0tyXoPgpcyz7qri06ixaGg2v/fwXCs5sEAuBiWuNgQAAPf8ANTofpNyDxcuDkCc7IcrSDN88mRIgiOXyKaHnMRLxYAOnUi9+5V8dlqaD2ZLnQFtQuGYgBzLgT2yeDrchHn3JtWoS0nenstaDaJBCv4/6RSQfJSZkDNZwIIlwN946GIHuv7khcW7gNvxzvX1Hv9RyU+P+k3IPgpCe9AQ85nXeNIdOpbrIS9ZLS51nN0AJlxsZPPkp0P0pyQczLiUBGKcQZmYMAWF4HkCkfiXQCATYEhxsIsNNQp8d/ZNyD+ZcSgBrmG5QZMySeyHWI96tYQtzsEmwIaAZAF+33/kpKjZXLTuFMyRKuQC7EtXst8D6lZ6u8OeSXGx3RDRzte60L+y3wPqVnqrN8uvDd0SOF48UehlmGLCVq4lCNt48tGRpuRfuH5piMHKVkCcrFrF7UpstMnkPzQ923v3PitX0N6G4THYZzw+s2o3cfmLcufLMgR2brDbW2dUw9V9Gq2HMMHv5Edx1XQWljFci8a6lJx9ovDbx/B8f6Ljt4/g/m/otH0A6BjGU3Vq5e2mTlphpgujtG404eRWZ6UYWhSxD6WHzltMuY4viS5ri05Y4WWnpo2vYka6lJxXokG3/AOH8Un6QH9n8UFCvbFwTa1ZtJ9VtEOMZ3XA5DvJ0WVp4fRtzsrsuHbx/B8f6JDt8/g+KO/SD0TpYFlDq3Oc55dnc46xBsOGqxBCt6eK9GYVVNXQab0g/h/H+id+kH8P4p/RXoxVxjiQerot+8qus0AcBOp9EvSnotVwbgT9pSd2Krew7kCeDlPjxzYnWSltuR/4+f2fxSf4+f2fxWp6IdB8PiMM7EPr9YQ0nIzdDHBsgOJuSsLgsHUrVG06TC97rAC58+Sv40VbgqNZO/wCBL/Hj+Ae8pp2+f2f839Ee2r9HdWnRz06ra1VgmtRZBc2RO7xdHlPBZDB4N9Wo2lTaXPccoaNSfPwUenjfBI1lJXTCH6QH9n/N/RT4DaxqPDMsT38lQ2/sWphKgpVoz5WvhpkAOm087FR7DP2zfA+iHUoximbU92DUEqTZpALcrnEOJJ0MnlpI1HuURU2y6MEC8Ovw/V0nkEhJ9rDwyGISJYXJGwckd2G+fqVnqtIZzd0tOh4i60T+y3wPqVn+qLjnEQN1wmTxv4lHoewbwISsjtKpNV5/ej3WWuWPxv3j/aPquhpvJgJcHonQDajsLszF12CSyq0xzG4CPdK0XSPo3S2q3D4qg4NnKHu4mlq4H98H5rH9HP8AI8f/AKjf/rQTYfS6vhaFWhTIy1JgmZpkiHFviF1FKySZzXTcpOUM3PYuiu1adSrXw9AAUcKKdNhHF29m8hAHkV43tDA9ftGvTNRlPNXqy95hrYc4yVufoQ7OK8afo9ZvZfR8Y3atek5xDBVrPfHaIDyIE8yVJXaRVNKnOXOC7snoXgcQ51GjtAvqgF1mbhiASJ1AtxWTxuznYfFmg8gup1WgkaG7SD7iF6V0eOHZtb6vhsOKYoMqB775nmG6zwvqVjunY/8Ad6vfVpf8aapx4uap1JOTTfFjZ/S3Qa9+DY9xY1znguDS8iQ0CGjW8LFdLui9DBDKMUX1oB6vJEA8S4HdtwXqPSfE0aeMwJrgEHrGsJ0bUOXKT8R5hecfSjsJ1DFGrJdTrkua43h0bzSfK3crmjGnm+I3sQ7J2VQ+rtOK2l1TKgnqWS4j22zA9ys9M+iz8Lh6dSniX1sO4tAaSQBILmkCYIKI4vYWF2fgGV61EYitWDYDzuMLm5jEaAD3lFenbSNi4cGx+wn/AGKbeC+o96a9sZ9Ev/QYr2j/AONYHoxgRUquJxQwrWNlzySHEG0Ngibrf/ROP/QYr2nf+NZz6OeitLFGrWryadIgZAYzGM1+6IVWukWpKLmEtmdD6OIZUq4DaFV1RtnEgtzHUAmxvCD/AEa0KZx7DVqubVa85GZcwecrs0v4Qtt9GmMp1n4p9Gg2jTGRrWjuzXd+9ELC9Cf83p/6tT0eraXDMxbamvwLfS/h6H1gv653X5GAUsktyy6+fhqfcsNsQfbN8CtX9L/+YH/Sp+r1lNiD7ZvgfRBr4Y1pvBGpapNnUxmBBcTdx5Dl5f3wURS7NMZbgl5mRfLEE3782n5rkSXax+OQ0uS3SJILcsOG63wPqVnarpeSNGjIeEwZuOOi0LuyPA+pWcykuJzk5SZBEc7o1D2DlgcQsdjDvu9p3qtiCsdi+272j6ro6XLASNLs3pzUpYf6u3D4csgBwLCc5EbzhME2Cy73SSYiSTA0udBy8E2ErGkmACSeA1TtwUYKN2jVdHenVbB0hTpUaHe4tdmcRMFxBubqs7pdWGLGLpsp06kQ4MaQ183dnE7xM6oIcI+XDq37t3brt0c3Wt5qIMMEgGBqYsOUlXdmelBu9jb1PpLxHWCoyhQY49t2UlzxyLtY0QvG9L31cQzEvw+HL2g/qOhxMQXXuRFis/h8O99mMc4i5DQTA52Tjhn7247dMO3Tun97krcmylRgsI0nSHpxWxlPq61Kj+64NdmbzLSXWKXF9PMRVw/1etTo1G5cuZ7XF2kB2vaHNZmhh3PMMa5x/dBcfgnDCvzFuR2YatyuzDxESpdk6dNcWNVs/wCkCuyg2hUpUq7WABpqAkgN0kcY5rsf9IWIrUTRq0qD2nmw25ECYBE28Flhg6k5erfMSRldMc4jRN+rvtuO3uzune9m1/JTdIrpU82NTsbp9Xw1EUaVCgGgQd10uOhLodcqrsbplXw1apVpMphtUgvpARTtplvLTcoFVwlRol1N7RzLXAfEKJ1MwDBg6HgY1g9yl2X0qebZNrT+krEscTSo0GNOrAwxM3dIIJKz1Tb9T60MWxlOnUaQ4BjYbPGRPGTPiqH1Splz9W/JrmyuyxzmIUCjbJGlBYRq+kfTmpi6ZY6hRaXABzwJeQDIAceyJQLYf3w8D6IeUQ2F96PA+iHVd4sJTgo8I0zk/ZtOCBwdfTloCeATJUuzacOEOJmXQNByHcuVLxG45CsrksJEkEJXndHOD6lAGtLyXjQCDNyXSQSAtA8S0DmCPVZ4ul5y6AZSRYEjiRzRqDyClg4lY/Enfd7R9StisfiO272j6ro6bLAyIlPgD9rT9tn/ACChlOp1C0hzSQQZBHAhOoG1dWNztBzOs2rkz5shDpcC0/as7IAkaqlsHCtdhn4clmfEU3VmgznzU4NINtEEMf8A7lmztOtLz1jpqiKl+2OTua5m0qwe14quDmDK1wO81ukA+BWmwXTYWrkt2bQNMkZq9TrS2QcwH2YcRwyyRKdgqrzhMeahcXE4ac05iS86zxIhB8NtKrTLjTqObmu6IueZBEKzhHYioyuWvJZAfXl7d4cCZu6/JUTZwXOjb4oY2S4DqWSW2P3rRY6TErQ0f+ra+TkfgHlv7TI2mRvnTPbXTRZXZVLEtLeodlOIJY0Bzd/KbgtPfzU7GYzrgW1Jq1D1QLalNxmwyEgwPCy1cqUeW7lrohWLsQ8udUyfV64BJl+XKSYOk/NVekofSrNNN56osBw7mEgdUQQMvJ1yDxme5NwGKxDsS2m6o/MXGkcrmZssnM1pO7e/ih+PqvE0S5xZTe6GkggGSDcWnwVXLUe7IW6WYl80W5nEOwtCRJIJibjmr218O12CyBzC/CObmy9oCoAKua3CpGizFbH1Xua5z3OcyA0nVoGgHcErdo1Rn+0cOt+8v2/a5qXL6bsvw0NSoa9B930a9CgBUZcU6tFsDT9V929xWUlFMRtuq+iKLnkiZLpMkAABp5tEIWVTNQi1kSVe2Gfth4FUkS2DTmpPAD1Q6viwiyaEp+zCWlpJkvuIvAEZgfGfgkU2y6MEA2Dt7Q/q2A7h+S5cvFjEAmXLk6O5ckgtiV3ZHgfUrNiS4nOSASCCIvzWied0eBPqgIaXEvEwAASeLpgkBHoewcnwJKyGJO+72j6rWyhFTYkknPqSdE7Rmo5ANASVxKMjYP7/AME1+w4E5/gmutD7M2YHlKFosP0VzNDut1E9lSjoj/F/l/qsvVU17NKDMwivRnENbXaHmKdQOo1OWWoMsnwdlPkiX6I/xf5f6rv0S/i/yqvl0vsjpNqw/Zzcu0cNSBBbRe1kjQlpJqO8MxddJgcHUG0KNR1IU2nEiOAMOkkAmYi5OiT9Ej+1/lP5rndEz+2+B/NX8ul9g/jyG7MwVRu0KT3MIa7E2JgTvlxI7o4oFtMfbVP9R/8AyKPnomf23wP5rv0S/i/y/wBVHq6X2aVCV7mXXLUfoj/FH+3+qX9Ef4v8v9VXyqX2b6cjLLloMd0c6sA9ZMmNO6VXbsMcXn3BbjXg+TLi0CGNJMDUrT7LwfVtv2jc/knYPBspjdF+fFWglq1bdwjUV7FBU+zgczd8mZMcAL2Vc6J+zCWls6v08BGYH3/BLyXaFgGlybA5rkiEJHCWjvkeqz2ffIb2QA1xGhcOJHPVaI9kf3xWbphxJhwIBMgCL84TFD2ZkuB8JwXArkQGcVDW0KlJUWIO6VtIzINYAfZs9kKxCr7P+7Z7I9FYlIz8mMRwIQlDZSp+HEuCkFdlTdotlzD7Mm7nHwH5q2/Y7eBcPcU4OiFelOqEfo5kq075M9jcCad5BGiqgI/tOlLCgMJatFRY9p6jnHk5cuhIQhBwZt3ss9r5FUgru2+yz2vkVVhOU/BAWu45oSwuXFWRjCbKbZVLKQ02m45wNI5C3wUCtbOBlsvntGI0HKVc32suAVlckhckQo953ff80BDC4ue2ctpOku0MDyKP1GyzyPzQAOu4N7NgY7OYan4lHoYYOdziU4BNK4FFsDuKosQN0qWUzEDdKtPkjwF8B92z2R6KdQ4H7tnsj0U6Tn5MNDAgKt4Bu9PJVVNhqmUmeK1TXJiu+xhZ3BX2uEa8ECdtSgDDqzAeWYSur7coU7F5Pg1zvQJxJs5LYVxjhlM8lnA6UH6SdLGPY6nTJaDZxNnHwnRXdl1g+kxw4tHpHyQ9RBqKY7pHlFuUqRKlB8GbcG6z2vkVUCt7d0Z7XyVMFN0/BAH5DikISpCVsgjhZSbLJaW5rOfdo5ttm8728FGRYqXZVKIB8W+A4AcOEqStsZqKswwkSrkiFJCNwefzWdp5vxNyyeyIvAutC87k8gT6oCGy4ubdtpOgzcYHvR6HsHJ2VjlyQpwCMgTETMQd0qSFHiOyVFkt4DOB+7Z7I9FPCgwX3bPZHop0nPyYWOBQ0mAIkmLomzYVJ0GqA8985f8Abp75QwO4q1/jhiAGCDBdUeKbJ4gcXajQI9AV1W63Abp4Om0Q1jR4NA9ErsOOXwQXq8XUg9c0NNw6m0ZI9ok+iCYmjneQzFV6pGpptDmD/ukA+SaUW/YkoM0O2dn0Mji9rfcFltlYhuYsp9gCQIsEI2nUqsdlzuf3Q9tTzY6QfIozsDDZKZJ7RJzdxFoPesVYtQu2H06anYJpUkJISB0gdt3RntfIqoCrW3NKftfIqonKfggMn3Dly4BKtMpMYrGzs0tlw0JHOJMCVA/Q+Cfsp5BbmsX9kfu8fCFmS7GET5DMpEkLknY3ce8SzxB+aCZoc5rbNtYXGYakHgjsbg8/ms9Tzfu5ZPZ/FaUeh7MSxccQnSmkJQjARZUeI7JT0zEndKtZI3wGcF92z2R6KdQ4P7tvsj0U4CSn5MOvERUsbi61OeqoNqlw00M8ha9rq+VZ2XiGh7muIFs9+6x+SNp3aYKt4GYweLrNwWOaWlhzsIbI3esgPDY8Dp3puysJjnuYW9SykQN7K0kC3AmT8EZ21iGTUouY9lSvkNIQ0Sxps4k2bvTM3gonh8SaADMU0Uakaj7p9rljhae6xXRc3bBz1ZPIH2rsvqnMeXl7iSCTrZrjYe73BM2PQLKYDgGuN3AaTp8viihp/Wg+qAeqpghh0zz2nf3yVeUlXm9thvTpOVzlyQrkoNg3bujPa+SqBW9uaM9r5KmnKfggD8h4KSU1pSlbIjqmifsplwDqLgnXKIBA84TSpdnh2ZubLoY55ZMSfcsyfYzcchNKuXJK4Unc6Kc8gT7pQEtlzi0yy1wIGY6o8WzTjmD80AzkEsEhlra3FzDvNMUPYGRy5clRgZ0qPE9kqRR4nslRZJLAawfYb7I9FOCq+FMMbyyj0QjG7fuRTHdmPyCWVNzk7DdGnKasgzi8aym3NUcGjvXbGxoxAbUpUhUDHuLMxgZwNXDXvAGvFYXG0+tJc9xceErVfRHimNquo1IBc4upEntOAAe3xgtN09T0yjG6yLf0KU6MVfDDH6HYnEnrMR1bnuu5xc8GOAAA3R3AqfB9HccXGhWfTqYdsFjaoNTwyu1HFeiU2wui6Nzbk4jqNmdxOFq0MO8jqsrWOJADogA6aLw/Z2NryXNqOAnjcfFepfSb0vp0aT8LTOatUGV0H7tpiZPMibd68yoQGgLW1Rjysna/j0OrJuYcwu33C1Rs94si2F2jTqaOjuNiseUkpaWnjLHB356Om1xwajbejPa+SqIbh8U9xa1xkAyJRJZUNqscSvDpzaHALoXLgqBnPNlJstxkF1i7sg8WxcjwKiqix8CpdlMJIzXLdCeDdIHiVUvFm4ZCyVJK5JXCk47A8/ms6zN+EBpJNr3tIWhc6KfgCfVAI3nZYyiCcosCdRPG82R6GGDk+LHJYXAJQEW4NIVQ4jslTqvX0K1HkqQ3a+0IY2k0/qguPlogrXgieCgdWs4nmR8lWbiBDWym6dHajsUasKcEr8sINuquJpFrJa4iKwIi0FzdZ4HdVtpVTFkGbiQ5sDiZzA+i3C9yv6ajKhyafZn0j7RpMDMtOo1oOV1QHMWtGa5Dr2GqXaP0k42tTJaGUmPlkszZgQGkw46aqfo/RpgYcuaDuvzeDaB1/ND9s4fJgqLBTIdPXZv1cmRjNfaHwWupGTtY8g4pMe7oG97OsGIDnubmIdeX8Rmm471natQ03dW9pa8HKR4aweK9L6Fn/wBLSkc58iRfyAVMYLrKFRmOMxUeabtHBoNjm81zYa2W+UZ82Z1tLWlStt9mKC5V8a006jm0znaPCQPmmU8TmM6AJ9Ruro71LXU58ewjg+2EXQLZ1WX9yPAJerwzmatqVVtCgJyVqQlBADHqxs/NLcwaLGOeWTCrVDY+CsbLqXE6mzQdcvMedlJrtLhkJpV2U8lyRsGJnDdI8UCzwXU29mxg6g8b8dfgjx7PvWdYSLZcokmZm/EJihhmJr2SLpXOXQiAjpUGJ7J8FPChxI3StJ2ZmWClhOjQcJrVoBuGtsb31VfHbEo0tA5/fmjw0C0tSq1tMN6sABoOaxIkXt+aGjZFStvdZkbO7IkkcCYsFcdRO7cpWQSCUlzyAPq2fsPyR+KSFRr4Ko14LhMkw4aQLeS0lXCHD3eBGgdw9yY6s14ggydDEpmGoeVyiq9Nzjk0PRymxtJg4/Ua1Q+LiGT7m/FUOk+Jc3CUWOIDnUWNjiW9e4i3gB702vizTp0zTbnBoHDOOmQF4OY911a2Jh+tPX1WtPVl1OgItAcSXmeMmEPqqC6jwcpUW5bQh0Vo1KWFDXSHElwngCZE+SobZ2qwB1J4Jc4brmujLbWIvdFcVVhsDRZCh0jZTxWZ1MVKeV1N+mYh1iWzoRHqkNNR61Z1GjoTThT4AGJxTDOWZYRlfxI/WFlA2lvkA7pJiNINxCfiKTGuqNbDmnsO85EjnFlFg6JcYmAvQJJRA6dSjUQdwAAcAjgQPAUQ1wRxc6tyzoV3/oxwSEJQnIFwViF4sfBWtmNkguuW2BPBvLvlRlqn2fmLmlzQLGIN4kxZVOXabgglC5LC5JXDiPdDJ8fggYaQXNbGUXtcSdRPDjYI7Ub9nbkfmgbamWabeyIImxB/WE8UxQ9gJtiJQVxXIoMVQ4rslSyocV2SrWSPBUw2HNZwYCQxsGoSTfu71oxjqbWmLhhymOHAHwQ/D7Hp0203hziXGXfhJidO6VFj8EDnaTAdLg4C4drl8DAQ6ihVltb4LhujG6QWxTG1abm2gyBPMcY5SscK5lrXDKW2B4eSPdH2OALXaDzPOJVfazWBr6YjMC2LXb+sb8dSrof5ycMm5ybjcaaFV7RSpnKHOGeRBEX+Q80eo4mm2KLbZRAnjHfxKp7MqmA50AwGC+oAB9ZQrGbFcXFzXydYkk+9XJRn2ydrf9F9rvuRpajJCxm0dgOFTcvmJi2h5SSthsnBuFNuZ7y6P1tB3c1Hj3ZJztIB4gSFijOVKXaGl3R54MW7o9XAnISIDrCbEwOPNUHUerdlcSHA3EEGRqLrdbJ2plcQ8lzIDWzwAJdDvgq23mCoWkhjj1esxBdvkgjjw8F0IahviQk9yfBn9mVs1TTRHyEFweHyvF5n+9UalDrWb4C0nJq8sjmlKmSnAoDQdMWs6AfAp+yqskE6mwHGNZHMcFDWMg+BUuzAXFpN3NsDpDfzlRpbGbi+QtmXLlyT4CXHvO4PP5rPtkQMhAuZJkzynuR6oYYD3H1KAkZXFtoF7SYJ7/L4I1DDMTfA9Km5l0oqBMcFDizulSSosUN0+CtLkqWA9rRZl5CfNVKdLObaC08yp6ZimPAeiTBB4BygeaV55CrixWqPdh3dgFrr9/koca1tRwyjeJnThCJGqc01GiOFlBhqc1My2pJclNNlbEYf7CImHAI1hmgNFgPBUse2GBo4nRTUKoyjgstuSLSSkXc6hxTgWkFVziuQJUBxDiYyx4rKXssuYO7BMEkXvrwuo62yqbnXY2DrbQ9xEKSjEACLKXMrc3cx00Z7a+FZTcwNAmTPhwTFb6QOk0/E+gVNNwbcU2D22YqcmhLKssRxVjZ7nEtlkHL8JMGFWqEQVPsqpJk6mw5xEyOYWZrsNxyFJXLlyRCjqwPVwOR+aCdYADSbBAgg6OniCjj3bg8D6lZ9j9BlI4y7UydExQ9mJrgclBSFcj2ApihMxfZKc03UeLO6VFkt4DdMbjfAeifReWpKA3G+A9FKWJKT5YdYI6pzJ1JsJwauyrN/RdiltN75pspgZ6tRtJpddrZuTHFd0g2ZUpUK9SliXPOGc1lVr6LWNObiwxcSdVFtTEdVUwtTKXZcQHQ0EuMC8Aaor0qcauDxtUYx9Voe3JSG62mCW7tRrmyTN9V3tHSg6N2jl6mclVSuQUjOusA8tWhPyBRtbp7Lf+IUjVxankzpwXaKGhcQeadC5DNgfbf/AMfifRV1Z27rT8T6BVU9T8EKy8hwSwkXBaINqtt5KbZcuILu02W/9vf3yVE9WNnFxIJZBynj3mDHeqnfazcMhOVyaVyRC2HvdDb8j80CeC05OAvxOt9dB6o67QA94+JQhxyty2IzmIFhwg96PReTM8EMrkicCmAFhGqPGHdKlKgxR3SqRJYsaPDdhvgPRSqHD9lvgFLKRkndjMcHLpXKOs/K1zomATHNUk2XewL6RPLRQe2oKbmVS9rnaAtaCP78VHtra9XFMfRFTDN6xwe/qgQ6u8C03N7BEhiQ6xaCMue4BuZEXGtvio24mAC2mAchdoAQRwMBdWjqXTp7bCU6KlPcy7k08APcAPkuUFHEEucCIyxB52klTyudOLcmxyGBUiSUsrFmWCdua0/F3yVQq1tvWn5/JVXFPU/BCsvI6U5qa1PWmRIjquiT3FWtlukhx1O73xE+YVV17fHl3q/hIziSJDAA2LgTrPf81mpZRCU0Xsq5KuSQXkXgEFrYd5O6AASQWS6PHkCiuBcTTBJnXW/6zlYBt7vVEUnBtGX3ICijAcwNIBdBebwYvbl396ifhXhpGV3MOGuukeBR96U/IK+uy1BAJ+EcTMFgFuDgY08uHmmmg5xz5TOuSALDS/xR8cfFIeHiPRX12W4K4EZh3y4BjrkAXs0ESY7v75J3UuAyS6D2nxdpHAePzKNhI82Hl6LPXf0RxQCqYV+XLlcYIhwNzJuIT3Yd05jLY0GskaT43Hn4I0fkkcoq7+iSigKaTyc4Dp1LNA3gBPE/mmjCvlwyu3jEl1miJt5o8PzXM4K+u/okYKwD6kx1cnKb5oEg/hjkT6pKmFfAbldYi4OoOoKPc0wKdZ/RIwQGOHdOcgg8G6gkGwPKfySCg+c4BJOrdAJ4Dw+ZRvj5poU67vgm1XAgwbocMpu43JuANI/vknPw8tyEEiQc5AsbyI1MfNGV02V9dlOKAZwJDYg2ghwN+XonV8Bm1EDlrMRbz5o4UnDzV9Zk2oBvw7nTDA1wAjkRy+Cn2dTLdb2u4hwdPnw8EUPyTDwWXXck0VGI2VycuQLmz//Z",
-        "title": "Makalat",
-        "description": "Tasavvufun temel prensiplerini içeren bir eser."
+        "pic":"",
+        "title": "Kolon Kanseri ve Obezite İlişkisi",
+      "description": "Prof. Dr. Abdullah Büyükçelik, kolon kanseri ile obezite arasındaki ilişki üzerine yaptığı çalışmalarla tanınmaktadır."
       }
     ],
-    "contributions": "Anadolu'da hoşgörü ve kardeşlik felsefesini yaymıştır."
+    "contributions": "Prof. Dr. Abdullah Büyükçelik, kanser tedavisi ve takibi, kemik iliği transplantasyonu, kanser görüntüleme ve tespiti konularında önemli katkılar sağlamıştır. 2009 yılından itibaren Acıbadem Sağlık Grubu'nda Tıbbi Onkoloji uzmanı olarak görev yapmaktadır."
   },
   {
     "index": 11,
