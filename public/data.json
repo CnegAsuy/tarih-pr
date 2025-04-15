@@ -8,9 +8,8 @@
     "fields": ["Uygulamalı Matematik", "İnşaat Mühendisliği"],
     "works": [
       {
-        "pic": "",
         "title": "Katkıları",
-        "description": "Princeton Üniversitesi'nde doktora yapmıştır. /nBoğaziçi Üniversitesi'nde Matematik Bölüm Başkanlığı ve Koç Üniversitesi'nde rektörlük görevlerinde bulunmuştur. /nDalga mekaniği, kuantum saçılma teorisi ve sayısal analiz alanlarında önemli araştırmalar yapmıştır."
+        "description": "Princeton Üniversitesi'nde doktora yapmıştır. Boğaziçi Üniversitesi'nde Matematik Bölüm Başkanlığı ve Koç Üniversitesi'nde rektörlük görevlerinde bulunmuştur. Dalga mekaniği, kuantum saçılma teorisi ve sayısal analiz alanlarında önemli araştırmalar yapmıştır."
       }
     ]
   },
@@ -57,7 +56,7 @@
       {
         "pic":"https://cdnuploads.aa.com.tr/uploads/userFiles/caec1b32-8257-4f58-87b0-6657c62b92b3/New%20folder%2FNew%20folder%20(11)%2FAA-33018067.jpg",
         "title": "Katkıları:",
-        "description": "Bolu Abant İzzet Baysal Üniversitesi Biyoloji Bölümü Botanik Ana Bilim Dalı Öğretim Üyesi olarak görev yapmaktadır. /nTürkiye florasına önemli katkılar sağlamış, birçok yeni bitki türü keşfetmiştir. /n13 yıl önce kaybettiği babasının adını verdiği yeni bir bitki türü (Allium mehmetyaschari Eker) keşfetmiş ve bu tür dünya literatürüne geçmiştir."
+        "description": "Bolu Abant İzzet Baysal Üniversitesi Biyoloji Bölümü Botanik Ana Bilim Dalı Öğretim Üyesi olarak görev yapmaktadır. Türkiye florasına önemli katkılar sağlamış, birçok yeni bitki türü keşfetmiştir. 13 yıl önce kaybettiği babasının adını verdiği yeni bir bitki türü (Allium mehmetyaschari Eker) keşfetmiş ve bu tür dünya literatürüne geçmiştir."
       }
     ]
   },
@@ -73,15 +72,14 @@
   {
     "index": 5,
     "name": "Prof. Dr. Mehmet Sağlam",
-    "url": "https://www.prints-online.com/p/164/al-farabi-32227442.jpg.webp", 
+    "url": "https://i1.sndcdn.com/artworks-000119899168-pctn17-t500x500.jpg", 
     "place_of_birth": "Kahramanmaraş",
     "birth_death": "1938 – ",
     "fields": ["Eğitim Bilimleri", "Siyaset","Fizik"],
     "works": [
       {
-        "pic":"https://i1.sndcdn.com/artworks-000119899168-pctn17-t500x500.jpg",
         "title": "Katkıları:",
-        "description": "Türkiye’de eğitim sisteminin gelişimine katkı sağladı. /nUzun yıllar akademisyenlik ve siyasi görevlerde (Eğitim Bakanlığı) bulundu. /nFizik eğitimi alanında akademik çalışmalar yaptı."
+        "description": "Türkiye’de eğitim sisteminin gelişimine katkı sağladı. Uzun yıllar akademisyenlik ve siyasi görevlerde (Eğitim Bakanlığı) bulundu. Fizik eğitimi alanında akademik çalışmalar yaptı."
       }
     ]
   },
@@ -110,7 +108,6 @@
   "fields": ["Kimya", "Kimya Mühendisliği"],
   "works": [
     {
-      "pic": "  ",
       "title": "Biyolojik ve Kimyasal Çözücüler",
       "description": "Kimya ve biyolojik çözücüler üzerine bir çalışma."
     }
