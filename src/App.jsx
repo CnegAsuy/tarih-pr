@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import "./App.css";
 import "./index.css";
+
 async function fetchData() {
   try {
     const response = await fetch(`${import.meta.env.BASE_URL}data.json`);
@@ -19,7 +20,6 @@ function zero() {
   const [searchParams] = useSearchParams();
   console.log(searchParams.get("id"));
   return 0;
-
 }
 
 function App() {
@@ -55,47 +55,54 @@ function App() {
     return <div>No data available</div>;
   }
 
+  const scientist = data[x];
+
   return (
     <>
       <a href="/tarih-pr/#/menu">
         <button>Ana Menüye dön ⏎</button>
       </a>
       <div className="scientist-container">
-        <h1 className="city">{data[x].name}</h1>
+        <h1 className="city">{scientist.name}</h1>
 
         <div className="scientist-info">
-          <img
-            src={data[x].url}
-            alt="Fotograf bulunmamaktadir."
-            className="photo"
-          />
-          <h2 className="scientist-name">{data[x].city}</h2>
+          {scientist.url && (
+            <img
+              src={scientist.url}
+              alt="Fotoğraf bulunmamaktadır."
+              className="photo"
+            />
+          )}
+          <h2 className="scientist-name">{scientist.city}</h2>
           <ul className="scientist-prop">
             <li>
-              <b>Doğum Yeri:</b> {data[x].place_of_birth}
+              <b>Doğum Yeri:</b> {scientist.place_of_birth}
             </li>
             <li>
-              <b>Yaşadığı Tarihler:</b> {data[x].birth_death}
+              <b>Yaşadığı Tarihler:</b> {scientist.birth_death}
             </li>
             <li>
               <b>Çalışma Yaptığı Alanlar:</b>{" "}
-              {data[x].fields.map((f) => (
-                <>{f + " "}</>
+              {scientist.fields.map((f, i) => (
+                <span key={i}>{f} </span>
               ))}
             </li>
           </ul>
           <br />
-          <p>{data[x].contributions}</p>
+          <p>{scientist.contributions}</p>
         </div>
-        {data[x].works != null &&
-          data[x].works.map((work) => (
+
+        {scientist.works != null &&
+          scientist.works.map((work) => (
             <div key={work.title}>
               <br />
               <br />
               <div className="scientist-info">
                 <div className="discovery-header">
                   <h3>{work.title}</h3>
-                  <img src={work.pic} alt={work.title} className="photo" />
+                  {work.pic && (
+                    <img src={work.pic} alt={work.title} className="photo" />
+                  )}
                 </div>
                 <ul className="scientist-prop">
                   <li>{work.description}</li>
