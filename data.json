@@ -8,6 +8,7 @@
     "fields": ["Askerî Liderlik", "Devlet Yönetimi", "Bilim ve Sanat Hamiliği"],
     "works": [
       {
+        "pic":"https://i0.wp.com/www.akademiktarihtr.com/wp-content/uploads/2020/02/%C4%B0stanbulun-Fethi.jpg?resize=678%2C381&ssl=1",
         "title": "Katkıları",
         "description": "İstanbul'u fethederek Orta Çağ'ı sona erdirip Yeni Çağ'ı başlatmıştır. Çok sayıda bilim insanı ve sanatçıyı himaye etmiş, matematik, astronomi ve mühendislik gibi alanlarda çalışmaları teşvik etmiştir. Osmanlı hukuk ve eğitim sisteminde reformlar yapmıştır."
       },
@@ -52,19 +53,30 @@
     "contributions": "Ameliyat tekniklerini geliştirmiş ve zehirlenmelere karşı ilaçlar geliştirmiştir."
   },
   {
-  "index": 3,
-  "name": "Aziz Sancar",
-  "url": "https://blog.arfbot.com/wp-content/uploads/2023/10/Aziz-Sancar-1946.jpeg",
-  "place_of_birth": "Mardin",
-  "birth_death": "1946 – ",
-  "fields": ["Biyokimya", "Moleküler Biyoloji"],
-  "works": [
-    {
-      "title": "Katkıları",
-      "description": "DNA onarımı, hücre döngüsü ve kanser tedavisi üzerine yaptığı çalışmalarla tanınmıştır. 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır. Özellikle 'nükleotid eksizyon tamiri' mekanizmasının aydınlatılmasına büyük katkı sağlamıştır."
-    }
-  ]
-},
+    "index": 3,
+    "name": "Aziz Sancar",
+    "url": "https://blog.arfbot.com/wp-content/uploads/2023/10/Aziz-Sancar-1946.jpeg",
+    "place_of_birth": "Mardin",
+    "birth_death": "1946 – ",
+    "fields": ["Biyokimya", "Moleküler Biyoloji"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "DNA onarımı, hücre döngüsü ve kanser tedavisi üzerine yaptığı çalışmalarla tanınmıştır. 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır. Özellikle 'nükleotid eksizyon tamiri' mekanizmasının aydınlatılmasına büyük katkı sağlamıştır."
+      },
+      {
+        "title": "Önemli Eserler ve Çalışmalar",
+        "description": "Aziz Sancar, bilimsel çalışmalarını büyük ölçüde DNA onarımı ve hücre sağlığı üzerine odaklamıştır. Ayrıca, moleküler biyolojinin kanser tedavisinde nasıl kullanılabileceğini araştırarak, modern tıbbın gelişimine önemli katkılar sunmuştur."
+      }
+    ],
+    "contributions": "Aziz Sancar, biyokimya alanındaki önemli buluşları ve DNA onarımı üzerine yaptığı kapsamlı araştırmalarla bilim dünyasına katkı sağlamıştır. Nobel Kimya Ödülü'nü kazanan ilk Türk bilim insanıdır. Bilimsel kariyerinde, kanser tedavisinin yanı sıra yaşlanma ve hücre sağlığının korunması gibi konularda da çalışmalar yapmıştır. Ayrıca, Türkiye'deki bilim insanlarının uluslararası düzeyde tanınmasına önemli bir katkı sağlamış ve genç bilim insanları için ilham kaynağı olmuştur.",
+    "honors": [
+      "2015 Nobel Kimya Ödülü",
+      "2006 L'Oréal-UNESCO Kadınlar İçin Bilim Ödülü",
+      "Çeşitli uluslararası üniversitelerden fahri doktora unvanları"
+    ]
+  },
+  
   {
     "index": 4,
     "name": "Hezarfen Ahmed Çelebi",
@@ -72,7 +84,21 @@
     "place_of_birth": "İstanbul",
     "birth_death": "1609 – 1640",
     "fields": ["Havacılık"],
-    "contributions": "Galata Kulesi'nden Üsküdar’a kendi tasarladığı kanatlarla uçmuştur; insanlı uçuş tarihindeki öncülerdendir."
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Galata Kulesi'nden Üsküdar’a kendi tasarladığı kanatlarla uçmuştur; insanlı uçuş tarihindeki öncülerdendir."
+      },
+      {
+        "title": "Hezarfen'in Uçuşu",
+        "description": "Hezarfen Ahmed Çelebi'nin uçuşu, Osmanlı İmparatorluğu'ndaki bilimsel ve teknik gelişmelerin öncüsü olarak kabul edilir. Uçuş, dönemin şartlarına göre büyük bir başarıydı ve bu olay, havacılıkla ilgili ilk denemelerden birisi olarak tarihe geçmiştir."
+      }
+    ],
+    "contributions": "Galata Kulesi'nden Üsküdar’a uçtuğu tarihi uçuşuyla tanınan Hezarfen Ahmed Çelebi, bu başarısı ile dünyanın ilk uçuşlarını gerçekleştiren insanlardan biridir. Bu uçuş, birçok modern havacılık araştırmacısı ve mühendis için ilham kaynağı olmuştur. Çelebi'nin kanatları, dönemin aerodinamik anlayışına uygun olarak tasarlanmış ve onun havacılıkla ilgili çalışmaları, gelecekteki bilim insanlarına ilham vermiştir.",
+    "honors": [
+      "Havacılık alanındaki erken dönemdeki başarılı denemeleri ile Osmanlı bilim tarihinde önemli bir yer edinmiştir.",
+      "Hezarfen Ahmed Çelebi'nin uçuşu, Türk havacılığının simgelerinden biri olarak anılmaktadır."
+    ]
   },
   {
     "index": 5,
@@ -104,13 +130,22 @@
     "fields": ["Haritacılık", "Denizcilik"],
     "works": [
       {
-        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:274177/wh:true/wi:800",
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:274177/wh:true/wi:800",
         "title": "Kitab-ı Bahriye",
         "description": "Denizcilik ve haritacılık üzerine önemli bir kaynak."
+      },
+      {
+        "title": "Piri Reis Haritası",
+        "description": "Piri Reis’in ünlü dünya haritası, 1513 yılına tarihlenmektedir ve Amerika kıtasını detaylı şekilde gösteren ilk haritalardan biridir. Bu harita, dönemin denizciliği ve coğrafyası hakkında önemli bilgiler sunar."
       }
     ],
-    "contributions": "Dünya haritasını çizmiş ve Amerika kıtasını erken dönemde haritalandırmıştır."
-  },
+    "contributions": "Piri Reis, 16. yüzyılda Osmanlı İmparatorluğu'nda denizcilik ve haritacılık alanındaki en önemli isimlerden biri olarak kabul edilir. Özellikle Amerika kıtasını gösteren haritaları, dönemin en ileri düzeydeki coğrafi keşifleri arasında sayılmaktadır. Kitab-ı Bahriye, denizcilik üzerine yazılmış en kapsamlı eserlerden biri olup, denizciler için pratik bilgiler sunar. Piri Reis, denizcilik ve haritacılık alanındaki katkılarıyla, dünya çapında tanınan bir isim olmuştur.",
+    "honors": [
+      "Piri Reis Haritası, günümüzde halen tarihi ve coğrafi araştırmalar için önemli bir kaynaktır.",
+      "Denizcilik ve haritacılık üzerine yaptığı katkılar, dönemin en ileri teknolojilerine sahip olmasına rağmen büyük bir başarı olarak kabul edilmektedir."
+    ]
+  }
+  ,
   {
     "index": 7,
     "name": "İsmail Gelenbevi",
@@ -136,13 +171,22 @@
     "fields": ["Astronomi", "Fizik", "Tasavvuf"],
     "works": [
       {
-        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:301451/wh:true/wi:800",
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:301451/wh:true/wi:800",
         "title": "Marifetname",
         "description": "Astronomiyi tasavvufla birleştiren bir eser."
+      },
+      {
+        "title": "Ruhani Bilimlerde Eserleri",
+        "description": "Erzurumlu İbrahim Hakkı, dini bilgiyle doğa bilimlerini birleştirerek, tasavvufi bakış açısını bilimsel bir düzeyde sunmuş, doğa olaylarını insan ruhunun yansıması olarak incelemiştir."
       }
     ],
-    "contributions": "Doğa bilimleri ile dini bilgiyi sentezlemiştir."
-  },
+    "contributions": "Erzurumlu İbrahim Hakkı, bilimsel çalışmalarıyla tasavvufu birleştirerek, dini ve doğa bilimlerini sentezlemiş bir bilim insanıdır. Özellikle Marifetname adlı eseri, astronomiyi, matematiği ve tasavvufu bir arada ele alır ve dönemin bilim dünyasında önemli bir yere sahiptir. Aynı zamanda, evrenin sırlarını çözmeye yönelik çalışmalarıyla tanınır.",
+    "honors": [
+      "Doğa bilimleri ve tasavvuf üzerine yaptığı katkılar, Osmanlı İmparatorluğu'nda önemli bir yer edinmiştir.",
+      "Marifetname eseri, hem dini hem de bilimsel bir yaklaşım sunarak, döneminin ötesinde bir anlayış sergilemiştir."
+    ]
+  }
+  ,
   {
   "index": 9,
   "name": "Ahi Evran",
@@ -152,7 +196,7 @@
   "fields": ["Ekonomi", "Esnaf Teşkilatlanması", "Sosyal Yapı"],
   "works": [
     {
-      "pic": "https://cdn.bkmkitap.com/ahi-evran-ve-ahilik-144326-79-B.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq07cNpH46-lLlk-MpVEnzviT__vTXJxK5Q&s",
       "title": "Letâifü’l-Hikem",
       "description": "Ahilik ilkeleri, ahlaki öğütler ve esnaf teşkilatlanması ile ilgili prensipleri içeren önemli bir eserdir."
     }
@@ -169,7 +213,7 @@
     "fields": ["Edebiyat", "Tıp", "Tasavvuf"],
     "works": [
       {
-        "pic": "",
+        "pic": "https://www.alfakitap.com/media/catalog/product/cache/7aaa48ea9734ca445e6a222a3fe7d59a/1/7/179608_9786054322497_57864.jpg",
         "title": "Harnâme",
         "description": "126 beyitlik hiciv türünde bir mesnevi. Eserde, bir merkebin ağzından sosyal eleştiri yapılır."
       }
@@ -183,18 +227,32 @@
     "place_of_birth": "Karaman",
     "birth_death": "1206 – 1326",
     "fields": ["Tasavvuf"],
-    "contributions": "Osmanlı Devleti’nin manevi kurucularındandır. Osman Gazi’ye devlet yönetiminde rehberlik etmiştir."
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Şeyh Edebali, Osmanlı Devleti'nin manevi kurucularındandır ve Osman Gazi’ye devlet yönetiminde rehberlik etmiştir. Aynı zamanda, tasavvuf ve ahlak öğretisiyle de tanınır. İnsanlık için en önemli değerlerin sevgi, hoşgörü ve adalet olduğunu vurgulamıştır."
+      },
+      {
+        "title": "Dünya ve Ahiret Öğretileri",
+        "description": "Şeyh Edebali, tasavvuf öğretilerini hem bireysel hem de toplumsal düzeyde insanlara öğretmiştir. Özellikle, insanların manevi dünyalarını şekillendiren öğretileriyle, ahlaki ve etik değerler üzerine derin etkiler bırakmıştır."
+      }
+    ],
+    "contributions": "Şeyh Edebali, Osman Gazi’ye sadece manevi rehberlik etmekle kalmamış, aynı zamanda Osmanlı Devleti’nin kurumsal temellerinin de oluşmasına katkı sağlamıştır. Devletin ilk adımlarının atıldığı bu dönemde, öğretileri ve fikirleri Osmanlı toplumunun temelini oluşturmuştur.",
+    "honors": [
+      "Osmanlı devletinin kuruluşuna manevi katkıları nedeniyle Osmanlı tarihinin en önemli şahsiyetlerinden biri olarak kabul edilir.",
+      "Tasavvuf öğretileri, adalet, sevgi ve hoşgörü gibi evrensel değerleri vurgulamış ve bu değerlerle Osmanlı toplumunun ahlaki çerçevesini şekillendirmiştir."
+    ]
   },
   {
     "index": 12,
     "name": "Yunus Emre",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yunus_Emre.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_of_Yunus_Emre.jpg",
     "place_of_birth": "Eskişehir",
     "birth_death": "1240 – 1320",
     "fields": ["Tasavvuf", "Şiir"],
     "works": [
       {
-        "pic": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Yunus_Emre_Kitabesi.jpg",
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:10568521/wh:true/miw:200/mih:200",
         "title": "Risalet-ün Nushiyye",
         "description": "Yunus Emre'nin ahlaki öğütler ve insan sevgisini işlediği tasavvufi bir eserdir. Hem bireysel ahlaki gelişimi hem de toplumsal ilişkilerdeki hoşgörü ve sevgiye vurgu yapar."
       }
@@ -229,8 +287,23 @@
     "place_of_birth": "Ankara",
     "birth_death": "1352 – 1430",
     "fields": ["Tasavvuf"],
-    "contributions": "Bayramilik tarikatının kurucusu; tasavvufun Anadolu’da yayılmasını sağlamıştır."
-  },
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Hacı Bayram Veli, Bayramilik tarikatının kurucusudur ve tasavvufun Anadolu'da yayılmasını sağlamıştır. Tasavvufi öğretilerini halk arasında yayarak, dini ve ahlaki değerleri toplumun her kesimine ulaştırmıştır."
+      },
+      {
+        "title": "Hacı Bayram Veli'nin Öğretileri",
+        "description": "Hacı Bayram Veli'nin öğretileri, insanın iç dünyasını anlamaya yönelikti. O, Allah'a yakınlık, sabır, sevgi ve hoşgörü gibi değerleri vurgulamış, insanları hem manevi hem de sosyal açıdan eğitmeye çalışmıştır."
+      }
+    ],
+    "contributions": "Hacı Bayram Veli, Anadolu'da tasavvufun yayılmasında önemli bir rol oynamış ve Bayramilik tarikatını kurarak bu öğretinin halk arasında kabul görmesini sağlamıştır. Ayrıca, onun öğretileri, Osmanlı toplumunun manevi yapısının şekillenmesinde de büyük rol oynamıştır.",
+    "honors": [
+      "Bayramilik tarikatı, Anadolu'da geniş bir takipçi kitlesine sahip olmuş ve Hacı Bayram Veli'nin öğretileri, tasavvufi düşüncenin halk arasında yayılmasına büyük katkı sağlamıştır.",
+      "Dini ve ahlaki değerler noktasında yaptığı katkılar, hem Osmanlı İmparatorluğu hem de günümüz toplumunda hala saygı görmekte ve dersler çıkarılmaktadır."
+    ]
+  }
+  ,
   {
     "index": 15,
     "name": "Aydınlı Hacı Paşa",
@@ -272,13 +345,21 @@
     "fields": ["Astronomi", "Matematik"],
     "works": [
       {
-        "pic":"",
-        "title": "Kitab el-Zic es-Sabi",
-        "description": "Astronomik Tablo Kitabı."
+        "title": "Katkıları",
+        "description": "Battani, trigonometrik kavramların temellerini atmış ve sinüs, kosinüs ve tanjant gibi kavramların kullanımını sistematik hale getirmiştir. Ayrıca, güneşin hareketini ve yıllık dönemi daha doğru bir şekilde hesaplayarak astronomi alanında büyük katkılarda bulunmuştur."
+      },
+      {
+        "title": "Astronomik Gözlemler",
+        "description": "Battani'nin astronomik gözlemleri, onun zamanının ötesinde bir bilim insanı olduğunu göstermektedir. Özellikle, yıldızların hareketini ve yerlerini daha hassas bir şekilde hesaplamış ve gözlemlediği gökyüzü olaylarını kaydetmiştir."
       }
     ],
-    "contributions": "Trigonometrik kavramların temellerini atan bilim insanlarından biridir. Sinüs, kosinüs ve tanjantın kullanımını sistematik hale getirmiştir."
-  },
+    "contributions": "Battani, matematik ve astronomi alanlarında önemli bir figürdür. Trigonometriye yaptığı katkılar, bugünkü matematiksel teorilerin temelini atmıştır. Ayrıca, astronomik gözlemleri ve hesaplamaları ile Orta Çağ bilim dünyasında derin izler bırakmıştır.",
+    "honors": [
+      "Battani, Orta Çağ İslam dünyasında matematik ve astronominin önemli isimlerinden biri olarak kabul edilmektedir.",
+      "Sinüs ve kosinüs gibi trigonometrik fonksiyonları sistematik bir şekilde kullanarak, bilimsel dünyaya önemli bir katkı sağlamıştır."
+    ]
+  }
+  ,
   {
     "index": 18,
     "name": "Mevlana Celaleddin Rumi",
