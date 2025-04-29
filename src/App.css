@@ -25,3 +25,7 @@ p {
     text-align: left;
     display: inline-flex;
 }
+
+.photo {
+    max-width: 50%;
+}
