@@ -1,0 +1,414 @@
+[
+  {
+    "index": 0,
+    "name": "Fatih Sultan Mehmet",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/250px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg",
+    "video_url": "https://youtu.be/Y6XOq_P_qBQ",
+    "place_of_birth": "Edirne",
+    "birth_death": "1432 – 1481",
+    "fields": ["Askerî Liderlik", "Devlet Yönetimi", "Bilim ve Sanat Hamiliği"],
+    "works": [
+      {
+        "pic":"https://i0.wp.com/www.akademiktarihtr.com/wp-content/uploads/2020/02/%C4%B0stanbulun-Fethi.jpg?resize=678%2C381&ssl=1",
+        "title": "Katkıları",
+        "description": "İstanbul'u fethederek Orta Çağ'ı sona erdirip Yeni Çağ'ı başlatmıştır. Çok sayıda bilim insanı ve sanatçıyı himaye etmiş, matematik, astronomi ve mühendislik gibi alanlarda çalışmaları teşvik etmiştir. Osmanlı hukuk ve eğitim sisteminde reformlar yapmıştır."
+      },
+      {
+        "pic":"https://www.malumatfurus.org/wp-content/uploads/Fatihin-dokturdugu-sahi-top.jpg",
+        "title": "Şahi Topu",
+        "description": "Fatih Sultan Mehmet, İstanbul kuşatmasında büyük bir stratejik başarı olan 'Şahin Topu'nu kullanarak surları yıkmayı başarmıştır. Bu top, kuşatma sırasında dönemin en büyük ve güçlü toplarından biri olarak tarihe geçmiştir."
+      }
+    ],
+    "contributions": "Fatih Sultan Mehmet, İstanbul'u fethederek Osmanlı İmparatorluğu'nu güçlendirmiş, bilim, sanat ve kültür alanında pek çok yeniliğe imza atmıştır. Ayrıca, bilim insanlarını ve sanatçıları himaye ederek Osmanlı İmparatorluğu'nu kültürel açıdan da zenginleştirmiştir."
+  },
+  {
+    "index": 1,
+    "name": "El-Cezeri",
+    "url": "https://img3.aksam.com.tr/imgsdisk/2019/01/04/040120192129450018206_2.jpg",
+    "video_url": "https://youtu.be/HfguiYOAy-k",
+    "place_of_birth": "Şırnak",
+    "birth_death": "1136 – 1206",
+    "fields": ["Mekanik", "Mühendislik", "Robotik"],
+    "works": [
+      {
+        "pic":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1265205450i/1546934.jpg",
+        "title": "Kitab-ül Hiyel",
+        "description": "Otomasyon ve mekanik sistemler üzerine yazılmış bir başyapıt."
+      }
+    ],
+    "contributions": "Robotik mühendisliğin öncüsü kabul edilir; otomatik makineler geliştirmiştir."
+  },
+  {
+    "index": 2,
+    "name": "Sabuncuoğlu Şerafettin",
+    "url": "https://4.bp.blogspot.com/-FowPIou5fS8/UexrV2ZK84I/AAAAAAAADck/NMDvGCg7vPs/s1600/Scan001+(1)-001.JPG",
+    "place_of_birth": "Amasya",
+    "birth_death": "1385 – 1468",
+    "fields": ["Tıp", "Cerrahi", "Farmakoloji"],
+    "works": [
+      {
+        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:309868/wh:true/wi:800",
+        "title": "Cerrahiyyetü’l-Haniyye",
+        "description": "Cerrahi müdahaleleri resimli anlatan ilk Osmanlı tıp kitabı."
+      }
+    ],
+    "contributions": "Ameliyat tekniklerini geliştirmiş ve zehirlenmelere karşı ilaçlar geliştirmiştir."
+  },
+  {
+    "index": 3,
+    "name": "Aziz Sancar",
+    "url": "https://blog.arfbot.com/wp-content/uploads/2023/10/Aziz-Sancar-1946.jpeg",
+    "place_of_birth": "Mardin",
+    "birth_death": "1946 – ",
+    "fields": ["Biyokimya", "Moleküler Biyoloji"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "DNA onarımı, hücre döngüsü ve kanser tedavisi üzerine yaptığı çalışmalarla tanınmıştır. 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır. Özellikle 'nükleotid eksizyon tamiri' mekanizmasının aydınlatılmasına büyük katkı sağlamıştır."
+      },
+      {
+        "title": "Önemli Eserler ve Çalışmalar",
+        "description": "Aziz Sancar, bilimsel çalışmalarını büyük ölçüde DNA onarımı ve hücre sağlığı üzerine odaklamıştır. Ayrıca, moleküler biyolojinin kanser tedavisinde nasıl kullanılabileceğini araştırarak, modern tıbbın gelişimine önemli katkılar sunmuştur."
+      }
+    ],
+    "contributions": "Aziz Sancar, biyokimya alanındaki önemli buluşları ve DNA onarımı üzerine yaptığı kapsamlı araştırmalarla bilim dünyasına katkı sağlamıştır. Nobel Kimya Ödülü'nü kazanan ilk Türk bilim insanıdır. Bilimsel kariyerinde, kanser tedavisinin yanı sıra yaşlanma ve hücre sağlığının korunması gibi konularda da çalışmalar yapmıştır. Ayrıca, Türkiye'deki bilim insanlarının uluslararası düzeyde tanınmasına önemli bir katkı sağlamış ve genç bilim insanları için ilham kaynağı olmuştur.",
+    "honors": [
+      "2015 Nobel Kimya Ödülü",
+      "2006 L'Oréal-UNESCO Kadınlar İçin Bilim Ödülü",
+      "Çeşitli uluslararası üniversitelerden fahri doktora unvanları"
+    ]
+  },
+  
+  {
+    "index": 4,
+    "name": "Hezarfen Ahmed Çelebi",
+    "url": "https://3.bp.blogspot.com/-ENthJx0khFE/XHxT7w1NRGI/AAAAAAAACFU/SOQuHXA06s429qJcGPvojZ2ci0SrOc28QCK4BGAYYCw/s400/uuuuu.PNG",
+    "place_of_birth": "İstanbul",
+    "birth_death": "1609 – 1640",
+    "fields": ["Havacılık"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Galata Kulesi'nden Üsküdar’a kendi tasarladığı kanatlarla uçmuştur; insanlı uçuş tarihindeki öncülerdendir."
+      },
+      {
+        "pic":"https://lh6.googleusercontent.com/proxy/LjH8raRHafEaC-92vXbtv5fGm-9AwXYCXl8X0ONFJK4j0E8-hMTuEBS4a876pPuu5fHrNyLdtg-UUyxSNfMkjDYEEzl4KKV3I_vdhepUOR5Jotl7haT3oFH3a5I2Fz-zPRZZUw",
+        "title": "Hezarfen'in Uçuşu",
+        "description": "Hezarfen Ahmed Çelebi'nin uçuşu, Osmanlı İmparatorluğu'ndaki bilimsel ve teknik gelişmelerin öncüsü olarak kabul edilir. Uçuş, dönemin şartlarına göre büyük bir başarıydı ve bu olay, havacılıkla ilgili ilk denemelerden birisi olarak tarihe geçmiştir."
+      }
+    ],
+    "contributions": "Galata Kulesi'nden Üsküdar’a uçtuğu tarihi uçuşuyla tanınan Hezarfen Ahmed Çelebi, bu başarısı ile dünyanın ilk uçuşlarını gerçekleştiren insanlardan biridir. Bu uçuş, birçok modern havacılık araştırmacısı ve mühendis için ilham kaynağı olmuştur. Çelebi'nin kanatları, dönemin aerodinamik anlayışına uygun olarak tasarlanmış ve onun havacılıkla ilgili çalışmaları, gelecekteki bilim insanlarına ilham vermiştir.",
+    "honors": [
+      "Havacılık alanındaki erken dönemdeki başarılı denemeleri ile Osmanlı bilim tarihinde önemli bir yer edinmiştir.",
+      "Hezarfen Ahmed Çelebi'nin uçuşu, Türk havacılığının simgelerinden biri olarak anılmaktadır."
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Ziya Gökalp",
+    "url": "https://aydinlarocagi.org/wp-content/uploads/2023/10/ziya-gokalp-kitaplari.jpg",
+    "place_of_birth": "Diyarbakır",
+    "birth_death": "1876 – 1924",
+    "fields": ["Sosyoloji", "Edebiyat", "Türkçülük"],
+    "works": [
+      {
+        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:5547521/wh:true/wi:800",
+        "title": "Türkçülüğün Esasları",
+        "description": "Ziya Gökalp'in Türkçülük düşüncesini derinlemesine ele aldığı en önemli eseridir. Türk milletinin tarihsel, kültürel ve toplumsal yapısını inceler ve milliyetçilik anlayışını ortaya koyar."
+      },
+      {
+        "pic":"https://img.kitapyurdu.com/v1/getImage/fn:11332567/wh:true/wi:800",
+        "title": "Yeni Hayat",
+        "description": "Ziya Gökalp'in toplumsal ve bireysel yeniliklere dair fikirlerini paylaştığı bir diğer önemli eseridir. Toplumun modernleşme sürecindeki değişimleri tartışır."
+      }
+    ],
+    "contributions": "Ziya Gökalp, Türk milliyetçiliği ve modernleşmesinin öncülerinden biri olarak bilinir. Sosyoloji ve edebiyat alanlarında önemli katkılar sağlamış, Türkçülük hareketine entelektüel bir temel oluşturmuştur."
+  },
+  {
+    "index": 6,
+    "name": "Piri Reis",
+    "url": "https://www.suustunde.com/content/files/2019/11/M_451302240_NWS-9UQPb5JbjpNYdcjdnfMc.png",
+    "video_url": "https://youtube.com/shorts/K-7C1nxAQe4?feature=share",
+    "place_of_birth": "Çanakkale",
+    "birth_death": "1470 – 1554",
+    "fields": ["Haritacılık", "Denizcilik"],
+    "works": [
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:274177/wh:true/wi:800",
+        "title": "Kitab-ı Bahriye",
+        "description": "Denizcilik ve haritacılık üzerine önemli bir kaynak."
+      },
+      {
+        "pic":"https://storage.evrimagaci.org/old/content_media/f7c012314ee9c1cc6b4c3606aabc6412.jpg",
+        "title": "Piri Reis Haritası",
+        "description": "Piri Reis’in ünlü dünya haritası, 1513 yılına tarihlenmektedir ve Amerika kıtasını detaylı şekilde gösteren ilk haritalardan biridir. Bu harita, dönemin denizciliği ve coğrafyası hakkında önemli bilgiler sunar."
+      }
+    ],
+    "contributions": "Piri Reis, 16. yüzyılda Osmanlı İmparatorluğu'nda denizcilik ve haritacılık alanındaki en önemli isimlerden biri olarak kabul edilir. Özellikle Amerika kıtasını gösteren haritaları, dönemin en ileri düzeydeki coğrafi keşifleri arasında sayılmaktadır. Kitab-ı Bahriye, denizcilik üzerine yazılmış en kapsamlı eserlerden biri olup, denizciler için pratik bilgiler sunar. Piri Reis, denizcilik ve haritacılık alanındaki katkılarıyla, dünya çapında tanınan bir isim olmuştur.",
+    "honors": [
+      "Piri Reis Haritası, günümüzde halen tarihi ve coğrafi araştırmalar için önemli bir kaynaktır.",
+      "Denizcilik ve haritacılık üzerine yaptığı katkılar, dönemin en ileri teknolojilerine sahip olmasına rağmen büyük bir başarı olarak kabul edilmektedir."
+    ]
+  }
+  ,
+  {
+    "index": 7,
+    "name": "İsmail Gelenbevi",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSveseQmfTKqWpmwV_MZhf5F5lOZqZAYRy19Q&s",
+    "place_of_birth": "Manisa",
+    "birth_death": "1730 – 1791",
+    "fields": ["Matematik", "Astronomi", "Mantık"],
+    "works": [
+      {
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63ZOhT5MtYNcFmDyA-RiD67N0dobyJSGELw&s",
+        "title": "Hulâsatü’l-Hisâb",
+        "description": "Matematiksel hesap yöntemlerini sistemli bir şekilde ele alan önemli bir eserdir. Döneminin eğitiminde geniş çapta kullanılmıştır."
+      }
+    ],
+    "contributions": "Osmanlı döneminde matematik, astronomi ve mantık alanlarında önemli çalışmalar yapmıştır. İstanbul'da Mühendishane-i Bahr-i Hümayun'un (Deniz Mühendislik Okulu) eğitim kadrosunda yer alarak modern bilimlerin Osmanlı'ya girişinde etkili olmuştur. Mantık ve hesap ilimlerini öğretmiş, birçok öğrenci yetiştirmiştir."
+  },
+  {
+    "index": 8,
+    "name": "Erzurumlu İbrahim Hakkı",
+    "url": "https://3.bp.blogspot.com/-Qvpu3Z6ItYA/UARwDrsA98I/AAAAAAAAAXQ/oLKjDeAu0k4/s200/ibrahim+hakk%C4%B1+erzurumi+2.jpg",
+    "place_of_birth": "Erzurum",
+    "birth_death": "1703 – 1780",
+    "fields": ["Astronomi", "Fizik", "Tasavvuf"],
+    "works": [
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:301451/wh:true/wi:800",
+        "title": "Marifetname",
+        "description": "Astronomiyi tasavvufla birleştiren bir eser."
+      },
+      {
+        "title": "Ruhani Bilimlerde Eserleri",
+        "description": "Erzurumlu İbrahim Hakkı, dini bilgiyle doğa bilimlerini birleştirerek, tasavvufi bakış açısını bilimsel bir düzeyde sunmuş, doğa olaylarını insan ruhunun yansıması olarak incelemiştir."
+      }
+    ],
+    "contributions": "Erzurumlu İbrahim Hakkı, bilimsel çalışmalarıyla tasavvufu birleştirerek, dini ve doğa bilimlerini sentezlemiş bir bilim insanıdır. Özellikle Marifetname adlı eseri, astronomiyi, matematiği ve tasavvufu bir arada ele alır ve dönemin bilim dünyasında önemli bir yere sahiptir. Aynı zamanda, evrenin sırlarını çözmeye yönelik çalışmalarıyla tanınır.",
+    "honors": [
+      "Doğa bilimleri ve tasavvuf üzerine yaptığı katkılar, Osmanlı İmparatorluğu'nda önemli bir yer edinmiştir.",
+      "Marifetname eseri, hem dini hem de bilimsel bir yaklaşım sunarak, döneminin ötesinde bir anlayış sergilemiştir."
+    ]
+  }
+  ,
+  {
+  "index": 9,
+  "name": "Ahi Evran",
+  "url": "https://yasamoykusu.com/_docs/story/1674546377.png",
+  "place_of_birth": "Kırşehir",
+  "birth_death": "1171 – 1261",
+  "fields": ["Ekonomi", "Esnaf Teşkilatlanması", "Sosyal Yapı"],
+  "works": [
+    {
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq07cNpH46-lLlk-MpVEnzviT__vTXJxK5Q&s",
+      "title": "Letâifü’l-Hikem",
+      "description": "Ahilik ilkeleri, ahlaki öğütler ve esnaf teşkilatlanması ile ilgili prensipleri içeren önemli bir eserdir."
+    }
+  ],
+  "contributions": "Ahilik teşkilatını kurarak Anadolu'da esnaf ve sanatkârlar arasında dayanışma, dürüstlük ve kalite esaslı bir sistem geliştirmiştir. Anadolu'nun sosyal ve ekonomik yapısının şekillenmesinde büyük rol oynamıştır."
+}
+,
+  {
+    "index": 10,
+    "name": "Şeyhî",
+    "url": "https://image.milimaj.com/i/milliyet/75/869x477/6098eaba55428502481e031d.jpg",
+    "place_of_birth": "Kütahya",
+    "birth_death": "1371 – 1431",
+    "fields": ["Edebiyat", "Tıp", "Tasavvuf"],
+    "works": [
+      {
+        "pic": "https://www.alfakitap.com/media/catalog/product/cache/7aaa48ea9734ca445e6a222a3fe7d59a/1/7/179608_9786054322497_57864.jpg",
+        "title": "Harnâme",
+        "description": "126 beyitlik hiciv türünde bir mesnevi. Eserde, bir merkebin ağzından sosyal eleştiri yapılır."
+      }
+    ],
+    "contributions": "Divan edebiyatının öncülerindendir. Hem hekimliği hem şairliğiyle tanınmış; Hacı Bayram-ı Velî’ye bağlılığı ile tasavvufi yönü öne çıkmıştır."
+  },
+  {
+    "index": 11,
+    "name": "Şeyh Edebali",
+    "url": "https://img-s1.onedio.com/id-63b6a0b54fa4342212f7a0ba/rev-0/w-900/h-506/f-jpg/s-6bf42e89534cfdb7261c9f25497a7c15f401351d.jpg",
+    "video_url": "https://youtube.com/shorts/KjqG3JKgYQo?feature=share",
+
+    "place_of_birth": "Karaman",
+    "birth_death": "1206 – 1326",
+    "fields": ["Tasavvuf"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Şeyh Edebali, Osmanlı Devleti'nin manevi kurucularındandır ve Osman Gazi’ye devlet yönetiminde rehberlik etmiştir. Aynı zamanda, tasavvuf ve ahlak öğretisiyle de tanınır. İnsanlık için en önemli değerlerin sevgi, hoşgörü ve adalet olduğunu vurgulamıştır."
+      },
+      {
+        "title": "Dünya ve Ahiret Öğretileri",
+        "description": "Şeyh Edebali, tasavvuf öğretilerini hem bireysel hem de toplumsal düzeyde insanlara öğretmiştir. Özellikle, insanların manevi dünyalarını şekillendiren öğretileriyle, ahlaki ve etik değerler üzerine derin etkiler bırakmıştır."
+      }
+    ],
+    "contributions": "Şeyh Edebali, Osman Gazi’ye sadece manevi rehberlik etmekle kalmamış, aynı zamanda Osmanlı Devleti’nin kurumsal temellerinin de oluşmasına katkı sağlamıştır. Devletin ilk adımlarının atıldığı bu dönemde, öğretileri ve fikirleri Osmanlı toplumunun temelini oluşturmuştur.",
+    "honors": [
+      "Osmanlı devletinin kuruluşuna manevi katkıları nedeniyle Osmanlı tarihinin en önemli şahsiyetlerinden biri olarak kabul edilir.",
+      "Tasavvuf öğretileri, adalet, sevgi ve hoşgörü gibi evrensel değerleri vurgulamış ve bu değerlerle Osmanlı toplumunun ahlaki çerçevesini şekillendirmiştir."
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Yunus Emre",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Portrait_of_Yunus_Emre.jpg",
+    "place_of_birth": "Eskişehir",
+    "birth_death": "1240 – 1320",
+    "fields": ["Tasavvuf", "Şiir"],
+    "works": [
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:10568521/wh:true/miw:200/mih:200",
+        "title": "Risalet-ün Nushiyye",
+        "description": "Yunus Emre'nin ahlaki öğütler ve insan sevgisini işlediği tasavvufi bir eserdir. Hem bireysel ahlaki gelişimi hem de toplumsal ilişkilerdeki hoşgörü ve sevgiye vurgu yapar."
+      }
+    ],
+    "contributions": "Tasavvuf ve halk edebiyatının birleşimi olarak, insanın iç dünyasını anlatan şiirleriyle Türk şiirine büyük katkı sağlamıştır. Allah'a olan derin sevgisi ve insanlara olan hoşgörüsüyle tanınır."
+  },
+  {
+    "index": 13,
+    "name": "Mimar Sinan",
+    "url": "https://www.webtekno.com/images/editor/default/0003/54/951d54bad05a005c0311175b43fd30f7a47b05d7.jpeg",
+    "place_of_birth": "Kayseri",
+    "birth_death": "1489 – 1588",
+    "fields": ["Mimarlık", "Matematik"],
+    "works": [
+      {
+        "pic":"https://cdn2.enuygun.com/media/lib/1200x675/uploads/image/suleymaniye-camii-60570.webp",
+        "title": "Süleymaniye Camii",
+        "description": "Dünya çapında ünlü bir cami."
+      },
+      {
+        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkIUwWuX0VKK7oKzMJ2bU8QmZPSo7--EowQ&s",
+        "title": "Selimiye Camii",
+        "description": "Dünya çapında ünlü bir cami."
+      }
+    ],
+    "contributions": "Osmanlı mimarisinde devrim yapmış, yapı fiziği ve akustiği alanında çığır açmıştır."
+  },
+  {
+    "index": 14,
+    "name": "Hacı Bayram Veli",
+    "url": "https://i2.milimaj.com/i/milliyet/75/869x477/6206a82386b247192c03ba1d.jpg",
+    "place_of_birth": "Ankara",
+    "birth_death": "1352 – 1430",
+    "fields": ["Tasavvuf"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Hacı Bayram Veli, Bayramilik tarikatının kurucusudur ve tasavvufun Anadolu'da yayılmasını sağlamıştır. Tasavvufi öğretilerini halk arasında yayarak, dini ve ahlaki değerleri toplumun her kesimine ulaştırmıştır."
+      },
+      {
+        "title": "Hacı Bayram Veli'nin Öğretileri",
+        "description": "Hacı Bayram Veli'nin öğretileri, insanın iç dünyasını anlamaya yönelikti. O, Allah'a yakınlık, sabır, sevgi ve hoşgörü gibi değerleri vurgulamış, insanları hem manevi hem de sosyal açıdan eğitmeye çalışmıştır."
+      }
+    ],
+    "contributions": "Hacı Bayram Veli, Anadolu'da tasavvufun yayılmasında önemli bir rol oynamış ve Bayramilik tarikatını kurarak bu öğretinin halk arasında kabul görmesini sağlamıştır. Ayrıca, onun öğretileri, Osmanlı toplumunun manevi yapısının şekillenmesinde de büyük rol oynamıştır.",
+    "honors": [
+      "Bayramilik tarikatı, Anadolu'da geniş bir takipçi kitlesine sahip olmuş ve Hacı Bayram Veli'nin öğretileri, tasavvufi düşüncenin halk arasında yayılmasına büyük katkı sağlamıştır.",
+      "Dini ve ahlaki değerler noktasında yaptığı katkılar, hem Osmanlı İmparatorluğu hem de günümüz toplumunda hala saygı görmekte ve dersler çıkarılmaktadır."
+    ]
+  }
+  ,
+  {
+    "index": 15,
+    "name": "Aydınlı Hacı Paşa",
+    "url": "https://i.tmgrup.com.tr/fikriyat/album/2020/05/12/anadolunun-ibn-i-sinasi-aydinli-haci-pasa-kimdir-1589277066640.jpg",
+    "place_of_birth": "Aydın",
+    "birth_death": "1335 – 1413",
+    "fields": ["Tıp", "Felsefe"],
+    "works": [
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:11573895/wh:true/wi:800",
+        "title": "Müntehab-ı Şifa",
+        "description": "Tıp bilimi üzerine yazılmış, dönemin önemli sağlık ve hastalık bilgilerini derleyen kapsamlı bir eserdir."
+      }
+    ],
+    "contributions": "Osmanlı'da tıp eğitiminin ve sağlık hizmetlerinin gelişmesine büyük katkıda bulunmuştur. Sağlık alanında Arapça ve Türkçe eserler vererek Anadolu'da tıp bilgisinin yayılmasını sağlamıştır."
+  },
+  {
+    "index": 16,
+    "name": "Molla Fenari",
+    "url": "https://www.biyografiler.com/personpicture-fb/mollafenari.jpg",
+    "place_of_birth": "Bursa",
+    "birth_death": "1350 – 1431",
+    "fields": ["Fıkıh", "Tasavvuf", "Felsefe", "Astronomi"],
+    "works": [
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:1458853/wh:true/wi:500",
+        "title": "Misbahü'l-Üsûl",
+        "description": "Fıkıh usulü hakkında yazılmış önemli bir eserdir. İslam hukuku metodolojisini sistematik bir şekilde açıklamıştır."
+      }
+    ],
+    "contributions": "Osmanlı Devleti'nin ilk Şeyhülislamı olarak görev yapmıştır. İslam felsefesi, fıkıh, astronomi ve tasavvuf alanlarında derin çalışmalar yapmış, eğitim kurumlarında (medreselerde) ilmi geleneğin kurulmasına öncülük etmiştir."
+  },
+  {
+    "index": 17,
+    "name": "Battani",
+    "url": "https://science4fun.info/wp-content/uploads/2020/02/Al-Battani.jpg",
+    "video_url": "https://youtu.be/xpvESzF8JWo",
+
+    "place_of_birth": "Şanlıurfa",
+    "birth_death": "858 – 929",
+    "fields": ["Astronomi", "Matematik"],
+    "works": [
+      {
+        "title": "Katkıları",
+        "description": "Battani, trigonometrik kavramların temellerini atmış ve sinüs, kosinüs ve tanjant gibi kavramların kullanımını sistematik hale getirmiştir. Ayrıca, güneşin hareketini ve yıllık dönemi daha doğru bir şekilde hesaplayarak astronomi alanında büyük katkılarda bulunmuştur."
+      },
+      {
+        "title": "Astronomik Gözlemler",
+        "description": "Battani'nin astronomik gözlemleri, onun zamanının ötesinde bir bilim insanı olduğunu göstermektedir. Özellikle, yıldızların hareketini ve yerlerini daha hassas bir şekilde hesaplamış ve gözlemlediği gökyüzü olaylarını kaydetmiştir."
+      }
+    ],
+    "contributions": "Battani, matematik ve astronomi alanlarında önemli bir figürdür. Trigonometriye yaptığı katkılar, bugünkü matematiksel teorilerin temelini atmıştır. Ayrıca, astronomik gözlemleri ve hesaplamaları ile Orta Çağ bilim dünyasında derin izler bırakmıştır.",
+    "honors": [
+      "Battani, Orta Çağ İslam dünyasında matematik ve astronominin önemli isimlerinden biri olarak kabul edilmektedir.",
+      "Sinüs ve kosinüs gibi trigonometrik fonksiyonları sistematik bir şekilde kullanarak, bilimsel dünyaya önemli bir katkı sağlamıştır."
+    ]
+  }
+  ,
+  {
+    "index": 18,
+    "name": "Mevlana Celaleddin Rumi",
+    "url": "https://mevlana.ankara.edu.tr/wp-content/uploads/sites/157/2019/08/mevlana-48cbaf.jpg",
+    "place_of_birth": "Horasan / Belh doğumlu; Konya'da yaşamış",
+    "birth_death": "1207 – 1273",
+    "fields": ["Tasavvuf", "Şiir", "Felsefe"],
+    "works": [
+      {
+        "pic": "https://i.dr.com.tr/cache/600x600-0/originals/0000000651407-1.jpg",
+        "title": "Mesnevi",
+        "description": "Mevlana Celaleddin Rumi'nin en önemli eserlerinden biridir. Tasavvuf öğretilerini ve insanın manevi yolculuğunu anlatan, derin anlamlar taşıyan şiirsel bir kitaptır."
+      },
+      {
+        "pic": "https://img.kitapyurdu.com/v1/getImage/fn:11967412/wh:true/wi:500",
+        "title": "Fihi Ma Fih",
+        "description": "Mevlana'nın öğretilerini açıklayan bir başka önemli eseridir. Sözlü olarak söylenmiş, sonra yazıya geçirilmiştir. Tasavvufi düşüncelerini ve insanlık anlayışını paylaşır."
+      }
+    ],
+    "contributions": "Mevlana Celaleddin Rumi, tasavvuf felsefesinin en büyük temsilcilerinden biridir. İnsanlığın ortak sevgisi, hoşgörüsü ve manevi gelişimi üzerine derin izler bırakmış, eserleri dünya çapında büyük bir etki yaratmıştır."
+  },
+  {
+    "index": 19,
+    "name": "Âşık Veysel",
+    "url": "https://image.gazetevatan.com/i/gazetevatan/75/0x0/60cbd3a2932151089010ec3c.jpg",
+    "place_of_birth": "Sivas, Türkiye",
+    "birth_death": "1894 – 1973",
+    "fields": ["Halk Şiiri", "Türk Halk Müziği"],
+    "works": [
+      {
+        "pic": "https://i.pinimg.com/736x/f7/13/87/f71387832252c3a4c75a3499294e4d84.jpg",
+        "title": "Dostlar Beni Hatırlasın",
+        "description": "Hayat, dostluk ve insan sevgisi temalarını işlediği şiir ve türkülerin yer aldığı eseridir."
+      },
+      {
+        "pic": "https://d35fbhjemrkr2a.cloudfront.net/Images/Shop/4/Product/19212/400/4e340b48916846f3aae9a184d7a066f7.jpg",
+        "title": "Sazımdan Sesler",
+        "description": "Âşık Veysel'in en bilinen türkülerinin toplandığı, Anadolu insanının duygularını yalın bir dille ifade ettiği eseridir."
+      }
+    ],
+    "contributions": "Türk halk edebiyatının ve müziğinin en önemli temsilcilerinden biridir. Sazı ve sözleriyle Anadolu insanının duygularını dile getirmiş, aşkı, dostluğu, vefayı ve insan sevgisini eserlerinde işlemiştir. Görme engeline rağmen yılmadan sanatını icra etmiş, halk şiirinin evrensel değerler taşımasına katkıda bulunmuştur."
+  }
+]
