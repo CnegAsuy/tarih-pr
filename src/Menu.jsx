@@ -47,11 +47,9 @@ function Menu() {
     <>
       <div className="two-row-grid">
         {data.map((x) => (
-          <>
-            <a href={`${import.meta.env.BASE_URL}#/?id=${x.index}`}>
-              <button>{x.name}</button>
-            </a>
-          </>
+          <a key={x.index} href={`${import.meta.env.BASE_URL}#/?id=${x.index}`}>
+            <button>{x.name}</button>
+          </a>
         ))}
       </div>
     </>
