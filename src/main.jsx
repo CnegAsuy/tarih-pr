@@ -6,9 +6,8 @@ import Menu from "./Menu";
 createRoot(document.getElementById("root")).render(
   <Router>
     <Routes>
-      <Route path="/tarih-pr/" element={<App />} />
+      <Route path="/" element={<App />} />
       <Route path="/menu" element={<Menu />} />
     </Routes>
-  </Router>
+  </Router>,
 );
-
