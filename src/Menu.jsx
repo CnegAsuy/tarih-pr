@@ -15,7 +15,7 @@ async function fetchData() {
   }
 }
 
-function Main() {
+function Menu() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -35,7 +35,7 @@ function Main() {
   }, []);
 
   if (loading) {
-    console.log*(import.meta.env.BASE_URL);
+    console.log * import.meta.env.BASE_URL;
     return <div>Loading...</div>;
   }
 
@@ -58,4 +58,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default Menu;
